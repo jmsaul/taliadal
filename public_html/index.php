@@ -18,6 +18,6 @@
 
 	<body>
 		<h1>Tiliadal STEM Education Consulting</h1>
-		<p>Website currently under construction - expected update 7/20/2016</p>
+		<p>Website currently under construction - expected update 8/15/2016</p>
 	</body>
 </html>
