@@ -47,7 +47,7 @@
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text" href="#">Tiliadal STEM Education Conulting</a>
+						<a class="navbar-brand center-text" href="#">Tiliadal STEM Education Consulting</a>
 					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Helping faulty, programs, and deaparments implement STEM Education Projects</div>
@@ -59,10 +59,10 @@
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
 					<li><a href="index.php">Home</a></li>
-					<li><a href="/pages/logi-gaming.php">About Us</a></li>
-					<li><a href="/pages/community-debate.php">Services</a></li>
-					<li><a href="/pages/services.php">Projects</a></li>
-					<li><a href="/pages/contact,php">Resources</a></li>
+					<li><a href="/pages/about.php">About Us</a></li>
+					<li><a href="/pages/services.php">Services</a></li>
+					<li><a href="/pages/projects.php">Projects</a></li>
+					<li><a href="/pages/resources,php">Resources</a></li>
 					<li><a href="/pages/contact,php">Blog</a></li>
 				</div>
 			</nav>
