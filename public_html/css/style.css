@@ -53,8 +53,12 @@ main {
 	font-family: cursive;
 }
 
-.header-Tiliadal {
+.h1-Tiliadal {
 	font-size: 400%;
+}
+
+.h2-Tiliadal {
+	font-size: 200%;
 }
 
 .motto-format {
