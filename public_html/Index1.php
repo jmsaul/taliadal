@@ -82,10 +82,12 @@
 							</div>
 
 							<div class="col-md-5">
-								<div>
-									<h1 class="italic-type">Tiliadal</h1>
-									<h2 class="italic-type">STEM Education</h2>
-									<h2 class="italic-type">Consulting</h2>
+								<div class="italic-type">
+									<h1>Tiliadal</h1>
+									<h2>STEM Education</h2>
+									<h2>Consulting</h2>
+									<br/>
+									<br/>
 									<p class="italic-type">Enabling you to grow your seed of an idea into reality</p>
 								</div>
 							</div>
