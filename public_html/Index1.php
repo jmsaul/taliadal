@@ -75,13 +75,15 @@
 						<div class="row">
 							<div class="col-md-7">
 								<div>
-									<img src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
+									<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
 								</div>
 
 							</div>
 
 							<div class="col-md-5">
 								<div class="italic-type">
+									<br/>
+									<br/>
 									<h1 class="h1-Tiliadal">Tiliadal</h1>
 									<h2 class="h2-Tiliadal">STEM Education</h2>
 									<h2 class="h2-Tiliadal">Consulting</h2>
@@ -102,6 +104,7 @@
 				<br/>
 				<br/>
 				<br/>
+				<p></p>
 
 			</main>
 		</div>

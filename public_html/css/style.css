@@ -49,6 +49,11 @@ main {
 }
 
 /**  main text format    **/
+.tree-image {
+	height: 100%;
+	width: 100%;
+}
+
 .italic-type {
 	font-family: cursive;
 }
