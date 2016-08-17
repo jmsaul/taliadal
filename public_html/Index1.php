@@ -56,19 +56,18 @@
 
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
-					<u1 class="nav navbar-nav navbar-right"
-					</u1>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="/pages/about.php">About Us</a></li>
-					<li><a href="/pages/services.php">Services</a></li>
-					<li><a href="/pages/projects.php">Projects</a></li>
-					<li><a href="/pages/resources,php">Resources</a></li>
-					<li><a href="/pages/contact,php">Blog</a></li>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="/pages/about.php">About Us</a></li>
+						<li><a href="/pages/services.php">Services</a></li>
+						<li><a href="/pages/projects.php">Projects</a></li>
+						<li><a href="/pages/resources,php">Resources</a></li>
+						<li><a href="/pages/contact,php">Blog</a></li>
+					</ul>
 				</div>
 			</nav>
 
 			<main class="main-format">
-				<hr>
 
 				<div class="container">
 					<div class="text-center">
@@ -97,7 +96,12 @@
 						</div>
 					</div>
 				</div>
-
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+				<br/>
 
 			</main>
 		</div>

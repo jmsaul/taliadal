@@ -5,12 +5,12 @@
 }
 
 .white-text1 {
-	color:lightgray;
+	color: white;
 	padding: 0px 0px 5px 16px;
 }
 
 .white-text0 {
-	color:white;
+	color: white;
 }
 
 .contact-info {
@@ -44,17 +44,15 @@ footer {
 }
 
 main {
-	padding-bottom: 20px;
+	/**padding-bottom: 20px;  **/
 	background-color: antiquewhite;
 }
 
 /**  main text format    **/
 .italic-type {
 	font-family: cursive;
-	font-size: 400%;
 }
 
-/**
 .h1-Tiliadal {
 	font-size: 400%;
 }
@@ -63,11 +61,9 @@ main {
 	font-size: 300%;
 }
 
-
 .motto-format {
-	font-size: 200%;
+	font-size: 250%;
 }
-**/
 
 /***
 * Flexbox Sticky Footer
