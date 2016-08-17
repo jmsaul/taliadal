@@ -84,8 +84,8 @@
 							<div class="col-md-5">
 								<div class="italic-type">
 									<h1 class="header-Tiliadal">Tiliadal</h1>
-									<h2 class="header-Tiliadal">STEM Education</h2>
-									<h2 class="header-Tiliadal">Consulting</h2>
+									<h3 class="header-Tiliadal">STEM Education</h3>
+									<h3 class="header-Tiliadal">Consulting</h3>
 									<br/>
 									<br/>
 									<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
