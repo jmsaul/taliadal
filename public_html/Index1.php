@@ -67,7 +67,7 @@
 				</div>
 			</nav>
 
-			<main class="main-fomrat">
+			<main class="main-format">
 				<hr>
 
 				<div class="container">

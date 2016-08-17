@@ -45,6 +45,11 @@ footer {
 
 main {
 	padding-bottom: 20px;
+	background-color: antiquewhite;
+}
+
+.italic-type {
+	font-family: cursive;
 }
 /***
 * Flexbox Sticky Footer
