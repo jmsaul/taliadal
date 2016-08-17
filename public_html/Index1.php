@@ -83,10 +83,10 @@
 
 							<div class="col-md-5">
 								<div>
-									<h1 class="italictype">Tiliadal</h1>
-									<h2 class="italictype">STEM Education</h2>
-									<h2 class="italictype">Consulting</h2>
-									<p class="italictype">Enabling you to grow your seed of an idea into reality</p>
+									<h1 class="italic-type">Tiliadal</h1>
+									<h2 class="italic-type">STEM Education</h2>
+									<h2 class="italic-type">Consulting</h2>
+									<p class="italic-type">Enabling you to grow your seed of an idea into reality</p>
 								</div>
 							</div>
 
