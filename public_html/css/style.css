@@ -45,7 +45,7 @@ footer {
 
 main {
 	/**padding-bottom: 20px;  **/
-	background-color: antiquewhite;
+	background-color: #fff3e6;
 }
 
 /**  main text format    **/
@@ -68,6 +68,10 @@ main {
 
 .motto-format {
 	font-size: 250%;
+}
+
+.warning {
+	text-align: center;
 }
 
 /***
