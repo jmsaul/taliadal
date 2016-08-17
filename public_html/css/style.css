@@ -51,8 +51,10 @@ main {
 /**  main text format    **/
 .italic-type {
 	font-family: cursive;
+	font-size: 400%;
 }
 
+/**
 .h1-Tiliadal {
 	font-size: 400%;
 }
@@ -60,6 +62,7 @@ main {
 .h2-Tiliadal {
 	font-size: 300%;
 }
+**/
 
 .motto-format {
 	font-size: 200%;
