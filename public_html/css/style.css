@@ -48,9 +48,15 @@ main {
 	background-color: antiquewhite;
 }
 
+/**  main text format    **/
 .italic-type {
 	font-family: cursive;
 }
+
+.motto-format {
+	font-size: 300%;
+}
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/

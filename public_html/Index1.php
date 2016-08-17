@@ -88,7 +88,7 @@
 									<h2>Consulting</h2>
 									<br/>
 									<br/>
-									<p class="italic-type">Enabling you to grow your seed of an idea into reality</p>
+									<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
 								</div>
 							</div>
 
