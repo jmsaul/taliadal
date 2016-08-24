@@ -38,7 +38,7 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-inverse">
+			<nav class="navbar navbar-inverse navbar-fixed-top">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
 				<div class="navbar-header white-text0">
 					<!-- this is the mobile menu button -->
