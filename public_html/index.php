@@ -50,7 +50,7 @@
 						<a class="navbar-brand center-text" href="#">Tiliadal STEM Education Consulting</a>
 					</span>
 					<div class="clearfix"></div>
-					<div class="white-text1">Helping faulty, programs, and deaparments implement STEM Education Projects</div>
+					<div class="white-text1">Helping faulty, programs, and departments implement STEM Education Projects</div>
 				</div>
 
 
@@ -62,7 +62,8 @@
 						<li><a href="/pages/services.php">Services</a></li>
 						<li><a href="/pages/projects.php">Projects</a></li>
 						<li><a href="/pages/resources,php">Resources</a></li>
-						<li><a href="/pages/contact,php">Blog</a></li>
+						<li><a href="/pages/blog,php">Blog</a></li>
+						<li><a href="/pages/contact-us.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</nav>
