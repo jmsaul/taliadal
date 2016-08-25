@@ -47,7 +47,7 @@
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text" href="#">Tiliadal STEM Education Consulting</a>
+						<a class="navbar-brand center-text white-text1" href="#">Tiliadal STEM Education Consulting</a>
 					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Helping faulty, programs, and departments implement STEM Education Projects</div>
