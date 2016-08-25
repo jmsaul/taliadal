@@ -40,24 +40,24 @@
 		<div class="sfooter-content">
 			<nav class="navbar navbar-inverse navbar-fixed-top">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
-				<div class="navbar-header white-text0">
+				<div class="navbar-header">
 					<!-- this is the mobile menu button -->
 					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
 						<span class="sr-only">main menu</span>
-						<span class="glyphicon glyphicon-menu-hamburger"></span>
+						<span class="glyphicon glyphicon-menu-hamburger white-text0"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text white-text1" href="#">Tiliadal STEM Education Consulting</a>
+						<a class="navbar-brand center-text white-text0" href="#">Tiliadal STEM Education Consulting</a>
 					</span>
 					<div class="clearfix"></div>
-					<div class="white-text1">Helping faulty, programs, and departments implement STEM Education Projects</div>
+					<div class="white-text1">Helping faculty, programs, and departments implement STEM Education Projects</div>
 				</div>
 
 
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index2.php">Home</a></li>
+					<ul class="nav navbar-nav navbar-right white-text2">
+						<li><a href="index.php">Home</a></li>
 						<li><a href="/pages/about.php">About Us</a></li>
 						<li><a href="/pages/services.php">Services</a></li>
 						<li><a href="/pages/projects.php">Projects</a></li>
@@ -68,17 +68,28 @@
 				</div>
 			</nav>
 
-			<main class="main-format">
+			<main class="main-format container-fluid">
 
 				<div class="container">
 					<div class="text-center">
 
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+						<br/>
+
 						<div class="row">
-							<div class="col-md-7">
+							<div class="col-md-6">
 								<div>
 									<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
 								</div>
 
+							</div>
+
+							<div class="col-md-1">
+								<!-- This is a blank column -->
 							</div>
 
 							<div class="col-md-5">
@@ -114,7 +125,6 @@
 
 
 			</main>
-			<br/>
 
 		</div>
 

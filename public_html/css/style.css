@@ -1,16 +1,24 @@
+/*   CSS style sheet for website  		*/
+/*   written by J. Saul  Summer 2016  	*/
 
-
-.content-wrap {
-
+/*corrects IE min-height bug*/
+body, html {
+	display: flex;
+	width: 100%;
+	overflow: hidden;
 }
 
 .white-text1 {
 	color: white;
-	padding: 0px 0px 5px 16px;
+	padding: 0px 0px 10px 16px;
 }
 
 .white-text0 {
 	color: white;
+}
+.white-text2 {
+	color: white;
+	padding-right: 25px;
 }
 
 .contact-info {
@@ -44,8 +52,11 @@ footer {
 }
 
 main {
-	/**padding-bottom: 20px;  **/
+	/*  padding-bottom: 20px;  */
 	background-color: #fff3e6;
+	overflow: auto;
+	height: 100%;
+	padding: 0px 0px 10px 0px;
 }
 
 /**  main text format    **/
@@ -79,9 +90,7 @@ main {
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
-/*corrects IE min-height bug*/
-html { display: flex;}
-body { width: 100%;}
+
 
 .sfooter {
 	display: flex;
