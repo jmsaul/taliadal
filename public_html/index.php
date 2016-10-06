@@ -99,7 +99,7 @@
 									<br/>
 									<h1 class="h1-Tiliadal">Tiliadal</h1>
 									<h2 class="h2-Tiliadal">STEM Education</h2>
-									<h2 class="h2-Tiliadal">Consulting</h2>
+									<h2 class="h2-Tiliadal">Institute</h2>
 									<br/>
 									<br/>
 									<br/>
