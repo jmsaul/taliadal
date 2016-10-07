@@ -1,13 +1,7 @@
-/*   CSS style sheet for website  		*/
-/*   written by J. Saul  Summer 2016  	*/
+/*   CSS style sheet for website		  		*/
+/*   written by J. Saul  October 2016  	*/
 
-/*corrects IE min-height bug*/
-body, html {
-	display: flex;
-	width: 100%;
-	overflow: hidden;
-}
-
+/* font colors */
 .white-text1 {
 	color: white;
 	padding: 0px 0px 10px 16px;
@@ -90,7 +84,13 @@ main {
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
-
+/*  corrects IE min-height bug  */
+html {
+	display: flex;}
+body {
+	width: 100%;
+	background-color: #fff3e6;
+	}
 
 .sfooter {
 	display: flex;
