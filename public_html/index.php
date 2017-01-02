@@ -47,7 +47,7 @@
 						<span class="glyphicon glyphicon-menu-hamburger white-text0"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text white-text0" href="#">Tiliadal STEM Education Institute</a>
+						<a class="navbar-brand center-text white-text0" href="#">Tiliadal STEM Education</a>
 					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Enabling you to grow your seed of an idea into reality</div>

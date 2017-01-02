@@ -4,8 +4,10 @@
 
 /* font colors */
 .white-text1 {
-	color: grey;
+	color: white;
 	padding: 0px 0px 10px 16px;
+	font-family: cursive;
+	font-size: 150%;
 }
 
 .white-text0 {
