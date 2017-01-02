@@ -85,7 +85,7 @@
 
 						<div class="row">
 							<div class="top-row">
-								<div class="col-md-7">
+								<div class="col-md-6">
 									<div>
 										<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
 									</div>
@@ -97,19 +97,18 @@
 									<!-- This is a blank column -->
 								<!-- </div> -->
 
-								<div class="col-md-5">
+								<div class="col-md-6">
 									<div class="italic-type">
 										<br/>
-										<br/>
-										<br/>
-										<h1 class="h1-Tiliadal">Tiliadal</h1>
-										<h2 class="h2-Tiliadal">STEM Education</h2>
+										<!--  <br/>
+										<br/> -->
+										<h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>
 										<!--
 										<h2 class="h2-Tiliadal">Institute</h2>
 										<br/>  -->
 										<br/>
 										<br/>
-										<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
+
 										<br/>
 										<br/>
 										<br/>
@@ -126,6 +125,7 @@
 					</div>
 				</div>
 				<br/>
+				<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
 				<hr>
 				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
 
