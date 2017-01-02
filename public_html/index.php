@@ -77,11 +77,11 @@
 						<br/>
 						<br/>
 						<br/>
+						<br/>
+						<br/>
 						<br/> -->
-						<br/>
-						<br/>
 
-						<div class="row">
+						<div class="row top-row">
 							<div class="col-md-7">
 								<div>
 									<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
@@ -92,7 +92,7 @@
 							<!--
 							<div class="col-md-1">
 								<!-- This is a blank column -->
-							</div> -->
+							<!-- </div> -->
 
 							<div class="col-md-5">
 								<div class="italic-type">

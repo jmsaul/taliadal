@@ -1,5 +1,6 @@
 /*   CSS style sheet for website		  		*/
-/*   written by J. Saul  October 2016  	*/
+/*   written by J. Saul  	October 2016  	*/
+/*   updated  					January 2017	*/
 
 /* font colors */
 .white-text1 {
@@ -23,13 +24,18 @@
 /*
 *  Saul circle class rules for images on homepage
 */
+/*
 .image-saul {
 	-webkit-clip-path: circle(50% at 50% 50%);
 	clip-path: circle(50% at 50% 50%);
 	width: 150px;
 	height: 150px;
-}
+}  */
 
+.top-row {
+	margin-top: 15px;
+	border: 4px solid #ff0000;
+}
 
 /*
 * Footer format
