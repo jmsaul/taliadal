@@ -61,7 +61,6 @@
 						<li><a href="/pages/about.php">Meet the Team</a></li>
 						<li><a href="/pages/services.php">Services</a></li>
 						<li><a href="/pages/projects.php">Projects</a></li>
-						<li><a href="/pages/resources,php">Resources</a></li>
 						<li><a href="/pages/blog,php">Workshops</a></li>
 						<li><a href="/pages/contact-us.php">Contact Us</a></li>
 					</ul>
