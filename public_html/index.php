@@ -122,7 +122,7 @@
 					<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
 				</div> -->
 				<hr>
-				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
+
 
 
 			</main>
@@ -134,13 +134,13 @@
 			<div class="container">
 				<p class="text-muted">Copyright 2016 J. Saul>
 			<span class="pull-right">
-				<!--	This will send an email to trailquailabq@gmail.com		-->
+
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right white-text2">
-
 						<li><a href="/pages/about.php">Upcoming Meetings</a></li>
 						<li><a href="/pages/services.php">Resources</a></li>
 						<li><a href="/pages/projects.php">Blogs</a></li>
+						<!--	This will send an email to jsaul@tiliadal.com		-->
 						<li><a href="mailto:jsaul@tiliadal.com">Email Tiliadal</a></li>
 
 					</ul>
@@ -150,7 +150,7 @@
 					role="button">Email Tiliadal</a> -->
 			</span>
 				</p>
-				<P> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</P>
+				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
 			</div>
 		</footer>
 
