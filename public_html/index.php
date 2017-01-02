@@ -125,7 +125,9 @@
 					</div>
 				</div>
 				<br/>
-				<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
+				<div class="italic-type">
+					<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
+				</div>
 				<hr>
 				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
 

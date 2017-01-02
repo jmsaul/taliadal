@@ -71,7 +71,7 @@ main {
 }
 
 .h1-Tiliadal {
-	font-size: 100%;
+	font-size: 350%;
 }
 
 .h2-Tiliadal {
@@ -80,6 +80,7 @@ main {
 
 .motto-format {
 	font-size: 250%;
+	margin: auto;
 }
 
 .warning {
