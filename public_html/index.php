@@ -50,7 +50,7 @@
 						<a class="navbar-brand center-text white-text0" href="#">Tiliadal STEM Education Institute</a>
 					</span>
 					<div class="clearfix"></div>
-					<div class="white-text1">Helping faculty, programs, and departments implement STEM Education Projects</div>
+					<div class="white-text1">Enabling you to grow your seed of an idea into reality</div>
 				</div>
 
 
