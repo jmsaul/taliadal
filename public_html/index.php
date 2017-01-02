@@ -134,8 +134,19 @@
 				<p class="text-muted">Copyright 2016 J. Saul
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
+				<div class="collapse navbar-collapse" id="main-menu">
+					<ul class="nav navbar-nav navbar-right white-text2">
+
+						<li><a href="/pages/about.php">Upcoming Meetings</a></li>
+						<li><a href="/pages/services.php">Resources</a></li>
+						<li><a href="/pages/projects.php">Blogs</a></li>
+						<li><a href="mailto:jsaul@tiliadal.com">Email Tiliadal</a></li>
+
+					</ul>
+				</div>
+				<!--
 				<a class="btn btn-primary" href="mailto:jsaul@tiliadal.com"
-					role="button">Email Tiliadal</a>
+					role="button">Email Tiliadal</a> -->
 			</span>
 				</p>
 			</div>
