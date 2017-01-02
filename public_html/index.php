@@ -117,9 +117,10 @@
 					</div>
 				</div>
 				<br/>
+				<!--
 				<div class="italic-type">
 					<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
-				</div>
+				</div> -->
 				<hr>
 				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
 
@@ -131,7 +132,7 @@
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">Copyright 2016 J. Saul
+				<p class="text-muted">Copyright 2016 J. Saul>
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
 				<div class="collapse navbar-collapse" id="main-menu">
@@ -149,6 +150,7 @@
 					role="button">Email Tiliadal</a> -->
 			</span>
 				</p>
+				<P> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</P>
 			</div>
 		</footer>
 
