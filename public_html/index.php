@@ -73,52 +73,55 @@
 				<div class="container">
 					<div class="text-center">
 
-						<!--
-						<br/>
-						<br/>
-						<br/>
+						<!-- Spacing from top -
 						<br/>
 						<br/>
 						<br/> -->
+						<hr>
+						<br/>
+						<br/>
+						<!--
+						<br/>  -->
 
-						<div class="row top-row">
-							<div class="col-md-7">
-								<div>
-									<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
+						<div class="row">
+							<div class="top-row">
+								<div class="col-md-7">
+									<div>
+										<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
+									</div>
+
 								</div>
 
-							</div>
+								<!--
+								<div class="col-md-1">
+									<!-- This is a blank column -->
+								<!-- </div> -->
 
-							<!--
-							<div class="col-md-1">
-								<!-- This is a blank column -->
-							<!-- </div> -->
-
-							<div class="col-md-5">
-								<div class="italic-type">
-									<br/>
-									<br/>
-									<br/>
-									<h1 class="h1-Tiliadal">Tiliadal</h1>
-									<h2 class="h2-Tiliadal">STEM Education</h2>
-									<!--
-									<h2 class="h2-Tiliadal">Institute</h2>
-									<br/>  -->
-									<br/>
-									<br/>
-									<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
-									<br/>
-									<br/>
-									<br/>
-									<br/>
-									<br/>
-									<br/>
-									<p></p>
+								<div class="col-md-5">
+									<div class="italic-type">
+										<br/>
+										<br/>
+										<br/>
+										<h1 class="h1-Tiliadal">Tiliadal</h1>
+										<h2 class="h2-Tiliadal">STEM Education</h2>
+										<!--
+										<h2 class="h2-Tiliadal">Institute</h2>
+										<br/>  -->
+										<br/>
+										<br/>
+										<p class="motto-format">Enabling you to grow your seed of an idea into reality</p>
+										<br/>
+										<br/>
+										<br/>
+										<br/>
+										<br/>
+										<br/>
+										<p></p>
+									</div>
 								</div>
+
+
 							</div>
-
-
-
 						</div>
 					</div>
 				</div>
