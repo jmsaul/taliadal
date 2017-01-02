@@ -58,11 +58,11 @@
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right white-text2">
 						<li><a href="index.php">Home</a></li>
-						<li><a href="/pages/about.php">About Us</a></li>
+						<li><a href="/pages/about.php">Meet the Team</a></li>
 						<li><a href="/pages/services.php">Services</a></li>
 						<li><a href="/pages/projects.php">Projects</a></li>
 						<li><a href="/pages/resources,php">Resources</a></li>
-						<li><a href="/pages/blog,php">Blog</a></li>
+						<li><a href="/pages/blog,php">Workshops</a></li>
 						<li><a href="/pages/contact-us.php">Contact Us</a></li>
 					</ul>
 				</div>
