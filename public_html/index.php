@@ -107,6 +107,7 @@
 										<h2 class="h2-Tiliadal">Institute</h2>
 										<br/>  -->
 										<br/>
+										<p id="intro">An interdisciplinary team of STEM Education Researcher (DBER) and Science Educators with nearly a hundred years combined experience in research design, curriculum design and evaluation.  Experienced in researching STEM post-secondary students at all levels from introductory non-technical majors all the way to upper level majors and graduate students, in-service and pre-service STEM teachers at all levels, as well as high school and middle school students.  Tiliadal researchers have the ability to step in at any stage of a project and give clients the attention and advice they require to complete their projects.</p>
 										<br/>
 
 										<br/>
