@@ -99,15 +99,15 @@
 
 								<div class="col-md-6">
 									<div class="italic-type">
+										<!-- <br/>
 										<br/>
-										<!--  <br/>
 										<br/> -->
 										<h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>
 										<!--
 										<h2 class="h2-Tiliadal">Institute</h2>
 										<br/>  -->
 										<br/>
-										<p class="intro">An interdisciplinary team of STEM Education Researcher (DBER) and Science Educators with nearly a hundred years combined experience in research design, curriculum design and evaluation.  Experienced in researching STEM post-secondary students at all levels from introductory non-technical majors all the way to upper level majors and graduate students, in-service and pre-service STEM teachers at all levels, as well as high school and middle school students.  Tiliadal researchers have the ability to step in at any stage of a project and give clients the attention and advice they require to complete their projects.</p>
+										<p class="intro">An interdisciplinary team of STEM Education Researcher (DBER) and Science Educators with nearly a hundred years combined experience in research design, curriculum development and evaluation.  Experienced in STEM projects at all education levels from elementary, middle, secondary, post-secondary students including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development from college/ university instructors, to in-service and pre-service STEM teachers.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they require completing their projects in a timely fashion.</p>
 										<br/>
 									</div>
 								</div>
