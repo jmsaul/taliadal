@@ -72,10 +72,10 @@
 				<div class="container">
 					<div class="text-center">
 
-						<!-- Spacing from top -
+						<!-- Spacing from top -->
 						<br/>
 						<br/>
-						<br/> -->
+						<br/>
 						<hr>
 						<br/>
 						<br/>
