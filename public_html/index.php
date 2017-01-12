@@ -104,7 +104,7 @@
 								<!-- </div> -->
 
 								<div class="col-md-6">
-									<div class="left-justified-cursive">
+									<div class="intro">
 										<!-- <br/>
 										<br/>
 										<br/> -->
@@ -113,7 +113,7 @@
 										<h2 class="h2-Tiliadal">Institute</h2>
 										<br/>  -->
 										<br/>
-										<p class="intro">An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
+										<p>An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
 										<br/>
 										<p>Areas of Expertise:</p>
 										<ul>
