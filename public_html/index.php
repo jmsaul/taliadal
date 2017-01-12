@@ -132,7 +132,7 @@
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">Copyright 2017 J. Saul>
+				<p class="text-muted">Copyright 2016 J. Saul>
 			<span class="pull-right">
 
 				<div class="collapse navbar-collapse" id="main-menu">
