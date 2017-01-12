@@ -57,7 +57,7 @@
 					<span>
 						<p class="white-text0">Tiliadal STEM Education</p>
 					</span>
-					<div class="clearfix"></div>
+					<!-- <div class="clearfix"></div> -->
 					<p class="white-text1">Enabling you to grow your seed of an idea into reality</p>
 				</div>
 
@@ -115,11 +115,12 @@
 										<br/>
 										<p>An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
 										<br/>
-										<p>Areas of Expertise:</p>
+										<h2>Areas of Expertise:</h2>
 										<ul>
 											<li>STEM Education Disciplines: Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</li>
 											<li>Skills: Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project Evaluation, Assessment creation and analysis, Dissemination, and Faculty Development</li>
 										</ul>
+										<h2>Meet our team</h2>
 
 
 											with combined experience in research design and deployment, curriculum development and evaluation.  Experienced in STEM projects for students at all education levels from elementary, middle, secondary, post-secondary, including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development for in-service and pre-service STEM teachers, college/ university instructors, administrators and informal STEM educators.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they need to complete their projects in a timely fashion.</p>
