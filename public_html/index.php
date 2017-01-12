@@ -59,8 +59,8 @@
 					<ul class="nav navbar-nav navbar-right white-text2">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="/pages/about.php">Meet the Team</a></li>
-						<li><a href="/pages/services.php">Services</a></li>
-						<li><a href="/pages/projects.php">Projects</a></li>
+						<li><a href="/pages/services.php">Research</a></li>
+						<li><a href="/pages/projects.php">Consulting</a></li>
 						<li><a href="/pages/blog,php">Workshops</a></li>
 						<li><a href="/pages/contact-us.php">Contact Us</a></li>
 					</ul>
@@ -72,8 +72,8 @@
 				<div class="container">
 					<div class="text-center">
 
-						<!-- Spacing from top -->
-						<br/>
+						<!-- Spacing from top --
+						<br/> -->
 						<br/>
 						<br/>
 						<hr>
