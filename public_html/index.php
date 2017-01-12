@@ -104,16 +104,25 @@
 								<!-- </div> -->
 
 								<div class="col-md-6">
-									<div class="italic-type">
+									<div class="left-justified-cursive">
 										<!-- <br/>
 										<br/>
 										<br/> -->
-										<h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>
+										<!-- <h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>  -->
 										<!--
 										<h2 class="h2-Tiliadal">Institute</h2>
 										<br/>  -->
 										<br/>
-										<p class="intro">An interdisciplinary team of STEM Education Researchers and Science Educators with combined experience in research design and deployment, curriculum development and evaluation.  Experienced in STEM projects for students at all education levels from elementary, middle, secondary, post-secondary, including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development for in-service and pre-service STEM teachers, college/ university instructors, administrators and informal STEM educators.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they need to complete their projects in a timely fashion.</p>
+										<p class="intro">An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
+										<br/>
+										<p>Areas of Expertise:</p>
+										<ul>
+											<li>STEM Education Disciplines: Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</li>
+											<li>Skills: Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project Evaluation, Assessment creation and analysis, Dissemination, and Faculty Development</li>
+										</ul>
+
+
+											with combined experience in research design and deployment, curriculum development and evaluation.  Experienced in STEM projects for students at all education levels from elementary, middle, secondary, post-secondary, including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development for in-service and pre-service STEM teachers, college/ university instructors, administrators and informal STEM educators.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they need to complete their projects in a timely fashion.</p>
 										<br/>
 									</div>
 								</div>
