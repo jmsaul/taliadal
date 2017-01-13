@@ -133,10 +133,10 @@
 								<h2>Meet our Team</h2>
 							</div>
 							<div class="col-md-3">
-								<h2>Meet our Team</h2>
+								<h2>Research Projects</h2>
 							</div>
 							<div class="col-md-3">
-								<h2>Research Projects</h2>
+								<h2>Consulting</h2>
 							</div>
 							<div class="col-md-3">
 								<h2>Workshops Offered</h2>
