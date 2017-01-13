@@ -146,7 +146,7 @@
 							<div class="col-md-2">
 								<h2><a class="landinglinks" href="pages/workshops/index.php">Workshops Offered</a></h2>
 							</div>
-							<div class="col-md-2">
+							<div class="col-md-1">
 								<h2><a class="landinglinks" href="pages/blog/index.php">Blog</a></h2>
 							</div>
 							<div class="col-md-2">
