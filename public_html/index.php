@@ -116,9 +116,12 @@
 										<p>An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
 										<br/>
 										<h2>Areas of Expertise:</h2>
+										<dl>
+											<dl>STEM Education Disciplines: </dl>
+												<dt>Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</dt>
+										</dl>
 										<ul>
-											<li>STEM Education Disciplines: Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</li>
-											<li>Skills: Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project Evaluation, Assessment creation and analysis, Dissemination, and Faculty Development</li>
+											<li><span class="plain-text">Skills:</span> Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project Evaluation, Assessment creation and analysis, Dissemination, and Faculty Development</li>
 										</ul>
 										<br/>
 									</div>

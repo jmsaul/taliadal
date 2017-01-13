@@ -96,6 +96,10 @@ main {
 	text-align: center;
 }
 
+.plain-text {
+	font-family: "Times New Roman";
+}
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
