@@ -99,16 +99,16 @@
 						</ul>
 						<h2>Skills</h2>
 						<ul>
-							<li>•	Research Skills necessary to take a project from Research Design to final data analysis
+							<li>Research Skills necessary to take a project from Research Design to final data analysis
 							</li>
-							<li>•	Strong Communication Skills to produce and provide clear and readable proposals, research progress reports and professional papers.
+							<li>Strong Communication Skills to produce and provide clear and readable proposals, research progress reports and professional papers.
 							</li>
-							<li>•	Writing skills necessary to improve papers and grants
+							<li>Writing skills necessary to improve papers and grants
 							</li>
 							<li>•	STEM Curriculum Development and Evaluations at all levels of students from K-20
 							</li>
-							<li>•	Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
-							</li>•	Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
+							<li>Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
+							</li>Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
 
 							<li>
 
