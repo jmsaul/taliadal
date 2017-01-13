@@ -105,7 +105,7 @@
 							</li>
 							<li>Writing skills necessary to improve papers and grants
 							</li>
-							<li>•	STEM Curriculum Development and Evaluations at all levels of students from K-20
+							<li>STEM Curriculum Development and Evaluations at all levels of students from K-20
 							</li>
 							<li>Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
 							</li>Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
