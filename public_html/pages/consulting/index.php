@@ -22,7 +22,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="../../css/style.css" type="text/css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -79,7 +79,7 @@
 			<main class="main-format container-fluid">
 
 				<div class="container">
-					<div class="text-center">
+					<div class="text-justify">
 
 						<!-- Spacing from top --
 						<br/> -->
@@ -90,70 +90,29 @@
 						<br/>
 						<br/>
 
-						<div class="row">
-							<div class="top-row">
-								<div class="col-md-6">
-									<div>
-										<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
-									</div>
+						<p>Our team has the ability to step in at any stage of a project to give clients the attention and advice they need to complete their projects in a timely fashion.  We offer a variety of consulting services including:
+						</p>
+						<h2>Services:</h2>
+						<ul>
+							<li>Seek out external funding and help with grant writing</li>
+						</ul>
+						<h2>Skills</h2>
+						<ul>
+							<li>•	Research Skills necessary to take a project from Research Design to final data analysis
+							</li>
+							<li>•	Strong Communication Skills to produce and provide clear and readable proposals, research progress reports and professional papers.
+							</li>
+							<li>•	Writing skills necessary to improve papers and grants
+							</li>
+							<li>•	STEM Curriculum Development and Evaluations at all levels of students from K-20
+							</li>
+							<li>•	Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
+							</li>•	Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
 
-								</div>
+							<li>
 
-								<!--
-								<div class="col-md-1">
-									<!-- This is a blank column -->
-								<!-- </div> -->
-
-								<div class="col-md-6">
-									<div class="intro">
-										<!-- <br/>
-										<br/>
-										<br/> -->
-										<!-- <h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>  -->
-										<!--
-										<h2 class="h2-Tiliadal">Institute</h2> -->
-										<br/>
-										<br/>
-										<p>An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
-										<br/>
-										<!--  <h2>Areas of Expertise:</h2>  -->
-										<dl>
-											<dt>STEM Education Disciplines: </dt>
-												<dd>Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</dd>
-										</dl>
-										<dl>
-											<dt>Skills:</dt>
-											<dd>Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project/Program Evaluation, Assessment Creation and Analysis, Dissemination, and Professional Development</dd>
-										</dl>
-										<br/>
-									</div>
-								</div>
-							</div>
-						</div>
-
-
-							<!-- 2nd row: Orgainzation Information Links -->
-						<div class="row">
-							<div class="col-md-2">
-								<h2>Meet our Team</h2>
-							</div>
-							<div class="col-md-2">
-								<h2>Research Projects</h2>
-							</div>
-							<div class="col-md-2">
-								<h2>Consulting</h2>
-							</div>
-							<div class="col-md-2">
-								<h2>Workshops Offered</h2>
-							</div>
-							<div class="col-md-2">
-								<h2>Blog</h2>
-							</div>
-							<div class="col-md-2">
-								<h2>Contact Us</h2>
-							</div>
-						</div>
-						<!-- End of 2nd row in main section -->
+							</li>
+						</ul>
 					</div>
 				</div>
 				<br/>
