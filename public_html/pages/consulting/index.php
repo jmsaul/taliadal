@@ -68,7 +68,7 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="/pages/about.php">Meet our Team</a></li>
 						<li><a href="/pages/services.php">Research</a></li>
-						<li><a href="/pages/consulting/index.php">Consulting</a></li>
+						<li><a href="/pages/projects.php">Consulting</a></li>
 						<li><a href="/pages/blog,php">Workshops</a></li>
 						<li><a href="/pages/blog,php">Blog</a></li>
 						<li><a href="/pages/contact-us.php">Contact Us</a></li>
