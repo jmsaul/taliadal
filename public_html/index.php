@@ -120,16 +120,31 @@
 											<li>STEM Education Disciplines: Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</li>
 											<li>Skills: Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project Evaluation, Assessment creation and analysis, Dissemination, and Faculty Development</li>
 										</ul>
-										<h2>Meet our team</h2>
 
 
-											with combined experience in research design and deployment, curriculum development and evaluation.  Experienced in STEM projects for students at all education levels from elementary, middle, secondary, post-secondary, including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development for in-service and pre-service STEM teachers, college/ university instructors, administrators and informal STEM educators.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they need to complete their projects in a timely fashion.</p>
+
+										<!--  <p>An interdisciplinary team of STEM Education Researchers and Science Educators with combined experience in research design and deployment, curriculum development and evaluation.  Experienced in STEM projects for students at all education levels from elementary, middle, secondary, post-secondary, including introductory non-technical majors all the way to upper level majors and graduate students. In addition, we are experienced with designing and delivering professional development for in-service and pre-service STEM teachers, college/ university instructors, administrators and informal STEM educators.  Tiliadal consultants have the ability to step in at any stage of a project and give clients the attention and advice they need to complete their projects in a timely fashion.</p>  -->
 										<br/>
 									</div>
 								</div>
-
-
 							</div>
+
+							<!-- 2nd row: Orgainzation Information Links -->
+							<div class="row">
+								<div class="col-md-3">
+									<h2>Meet our Team</h2>
+								</div>
+								<div class="col-md-3">
+									<h2>Meet our Team</h2>
+								</div>
+								<div class="col-md-3">
+									<h2>Research Projects</h2>
+								</div>
+								<div class="col-md-3">
+									<h2>Workshops Offered</h2>
+								</div>
+							</div>
+
 						</div>
 					</div>
 				</div>
