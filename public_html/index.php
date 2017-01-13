@@ -135,22 +135,22 @@
 							<!-- 2nd row: Orgainzation Information Links -->
 						<div class="row">
 							<div class="col-md-2">
-								<h2>Meet our Team</h2>
+								<h2><a class="landinglinks" href="pages/team/index.php">Meet our Team</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2>Research Projects</h2>
+								<h2><a class="landinglinks" href="pages/research/index.php">Research Projects</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2>Consulting</h2>
+								<h2><a class="landinglinks" href="pages/consulting/index.php">Consulting</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2>Workshops Offered</h2>
+								<h2><a class="landinglinks" href="pages/workshops/index.php">Workshops Offered</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2>Blog</h2>
+								<h2><a class="landinglinks" href="pages/blog/index.php">Blog</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2>Contact Us</h2>
+								<h2><a class="landinglinks" href="pages/contactUs/index.php">Contact Us</a></h2>
 							</div>
 						</div>
 						<!-- End of 2nd row in main section -->
