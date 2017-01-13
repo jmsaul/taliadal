@@ -66,12 +66,12 @@
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right white-text2">
 						<li><a href="index.php">Home</a></li>
-						<li><a href="/pages/about.php">Meet our Team</a></li>
-						<li><a href="/pages/services.php">Research</a></li>
+						<li><a href="/pages/team/index.php">Meet our Team</a></li>
+						<li><a href="/pages/research/index.php">Research</a></li>
 						<li><a href="/pages/consulting/index.php">Consulting</a></li>
-						<li><a href="/pages/blog,php">Workshops</a></li>
-						<li><a href="/pages/blog,php">Blog</a></li>
-						<li><a href="/pages/contact-us.php">Contact Us</a></li>
+						<li><a href="/pages/workshops/index,php">Workshops</a></li>
+						<li><a href="/pages/blog/index,php">Blog</a></li>
+						<li><a href="/pages/contact-us/index.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</nav>
