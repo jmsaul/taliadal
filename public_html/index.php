@@ -69,8 +69,8 @@
 						<li><a href="/pages/team/index.php">Meet our Team</a></li>
 						<li><a href="/pages/research/index.php">Research</a></li>
 						<li><a href="/pages/consulting/index.php">Consulting</a></li>
-						<li><a href="/pages/workshops/index,php">Workshops</a></li>
-						<li><a href="/pages/blog/index,php">Blog</a></li>
+						<li><a href="/pages/workshops/index,.hp">Workshops</a></li>
+						<li><a href="/pages/blog/index.php">Blog</a></li>
 						<li><a href="/pages/contact-us/index.php">Contact Us</a></li>
 					</ul>
 				</div>
