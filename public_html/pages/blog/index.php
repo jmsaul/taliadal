@@ -90,7 +90,7 @@
 						<br/>
 						<br/>
 
-						<h1>Consulting</h1>
+						<h1>Blog</h1>
 						<p>Our team has the ability to step in at any stage of a project to give clients the attention and advice they need to complete their projects in a timely fashion.  We offer a variety of consulting services including:
 						</p>
 						<h2>Services:</h2>
