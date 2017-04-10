@@ -114,7 +114,7 @@
 										<h2 class="h2-Tiliadal">Institute</h2> -->
 										<br/>
 										<br/>
-										<p>An interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
+										<p>We are an interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
 										<br/>
 										<!--  <h2>Areas of Expertise:</h2>  -->
 										<dl>
