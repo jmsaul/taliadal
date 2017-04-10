@@ -150,7 +150,7 @@
 								<h2><a class="landinglinks" href="pages/blog/index.php">Blog</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/contactUs/index.php">Contact Us</a></h2>
+								<h2><a class="landinglinks" href="/pages/contact-us/index.php">Contact Us</a></h2>
 							</div>
 						</div>
 						<!-- End of 2nd row in main section -->
