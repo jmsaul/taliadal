@@ -94,7 +94,7 @@ nav li a:hover {
 	width: 70%;
 	max-width:70%;
 	border-radius: 50%;
-	border: 5px solid #8a80c3;
+	border: 5px solid darkgreen;
 	margin-bottom: 20px;
 }
 .column h4 {
@@ -113,8 +113,8 @@ nav li a:hover {
 }
 
 #social {
-	<!--  background: #8a80c3;  -->
-	background: #006400;
+	/*  background: #8a80c3;  */
+	background: darkgreen;
 	color: #fafafa;
 	padding: 25px 0;
 	overflow: hidden;
