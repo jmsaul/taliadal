@@ -70,7 +70,7 @@ nav li a:hover {
 	margin: 10px;
 }
 #hero span {
-	border: 2px solid white;
+	border: 4px solid white;
 	padding: 10px 20px;
 	display: inline-block;
 	margin-top: 10px;
@@ -98,7 +98,7 @@ nav li a:hover {
 	margin-bottom: 20px;
 }
 .column h4 {
-	color: #8a80c3;
+	color: darkgreen;
 	font-size: 150%;
 	margin-bottom: 15px;
 }
