@@ -80,6 +80,7 @@ nav li a:hover {
 	text-align: center;
 	padding: 25px 0;
 	overflow: hidden;
+	background: lightgoldenrodyellow;
 }
 .main-content h3{
 	font-size: 250%;
