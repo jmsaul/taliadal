@@ -87,6 +87,11 @@ nav li a:hover {
 	overflow: hidden;
 	/*  background: #F7ECC0;  */
 }
+
+.main-content h2{
+	font-size: 250%;
+	margin: 20px 0;
+
 .main-content h3{
 	font-size: 250%;
 	margin: 20px 0;
