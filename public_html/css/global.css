@@ -47,6 +47,10 @@ nav li a:hover {
 	margin: 10px;
 }
 
+.company {
+	vertical-align: middle;
+}
+
 .container {
 	width: 100%;
 	margin: 0 auto;
