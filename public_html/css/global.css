@@ -49,6 +49,8 @@ nav li a:hover {
 
 .company {
 	vertical-align: middle;
+	position: relative;
+	top: 20px;
 }
 
 .container {
