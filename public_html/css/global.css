@@ -22,8 +22,7 @@ nav {
 }
 nav ul {
 	float: right;
-	position: relative;
-	top: 30px;
+
 }
 nav li {
 	float: left;
