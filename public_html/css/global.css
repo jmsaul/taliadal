@@ -48,6 +48,7 @@ nav li a:hover {
 }
 
 #company {
+	display: block;
 	vertical-align: middle;
 	font-size: 200%;
 }
