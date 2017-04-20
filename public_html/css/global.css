@@ -143,7 +143,9 @@ nav li a:hover {
 	float: left;
 	width: 100%;
 	position: relative;
+	height: 10%;
 }
+
 #social ul {
 	clear:left;
 	float:left;
