@@ -47,10 +47,8 @@ nav li a:hover {
 	margin: 10px;
 }
 
-.company {
+#company {
 	vertical-align: middle;
-	position: fixed;
-	top: 20px;
 	font-size: 200%;
 }
 
