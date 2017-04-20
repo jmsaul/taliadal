@@ -49,7 +49,7 @@ nav li a:hover {
 
 .company {
 	vertical-align: middle;
-	position: relative;
+	position: absolute;
 	top: 20px;
 }
 
