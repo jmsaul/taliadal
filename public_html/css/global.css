@@ -27,6 +27,7 @@ nav ul {
 nav li {
 	float: left;
 	width: auto;
+	color
 }
 nav li a {
 	padding: 25px 10px;
@@ -53,6 +54,7 @@ nav li a:hover {
 	vertical-align: middle;
 	font-size: 200%;
 	float: left;
+	color: #fafafa;
 }
 
 .container {
