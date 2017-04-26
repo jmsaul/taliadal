@@ -59,7 +59,7 @@ nav li a:hover {
 #brand {
 	text-indent: -1100px;
 	background: url(../img/tiliadal-logo0.png) no-repeat top left;
-	background-size: 90px;
+	/*  background-size: 90px;  */
 	height: 90px;
 	width: 90px;
 	float: left;
