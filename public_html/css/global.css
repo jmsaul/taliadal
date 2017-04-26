@@ -40,7 +40,7 @@ nav li a:hover {
 	background: #e5e5e5;
 }
 #brand {
-	text-indent: 110px;
+	text-indent: -1100px;
 	background: url(../img/tiliadal-logo0.png) no-repeat top left;
 	background-size: 92px;
 	height: 92px;
