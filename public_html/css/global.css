@@ -76,6 +76,16 @@ nav li a:hover {
 	margin: 0 auto;
 }
 
+header h3 {
+	clear: both;
+	font-size: 150%;
+	padding: 15px 0 10px 0;
+	margin: 0 0 20px 0;
+	/* background: rgb(127,224,129); */
+	background: #bfad3b;
+	/* background: aquamarine; */
+}
+
 #hero {
 	background: url(../img/tiliadalLindenTree.jpg) no-repeat top left;
 	text-align: center;
@@ -119,14 +129,7 @@ nav li a:hover {
 	background-color: red;
 }
 
-header h3 {
-	font-size: 150%;
-	padding: 15px 0 10px 0;
-	margin: 0 0 20px 0;
-	/* background: rgb(127,224,129); */
-	background: #bfad3b;
-	/* background: aquamarine; */
-}
+
 .column {
 	float: left;
 	width: 30%;
