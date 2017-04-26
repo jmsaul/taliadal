@@ -111,10 +111,11 @@ nav li a:hover {
 }
 
 .main-content h3 {
-	font-size: 150%;
+	font-size: 130%;
 	padding: 15px 0 10px 0;
 	margin: 0 0 20px 0;
 	background: rgb(127,224,129);
+	/* background: aquamarine; */
 }
 .column {
 	float: left;
