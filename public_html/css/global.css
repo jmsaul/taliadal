@@ -32,7 +32,7 @@ nav li {
 }
 nav li a {
 	padding: 25px 10px;
-	font-size: 140%;
+	font-size: 125%;
 	display: block;
 	text-decoration: none;
 	color: #fafafa;
@@ -111,10 +111,11 @@ nav li a:hover {
 }
 
 .main-content h3 {
-	font-size: 130%;
+	font-size: 150%;
 	padding: 15px 0 10px 0;
 	margin: 0 0 20px 0;
-	background: rgb(127,224,129);
+	/* background: rgb(127,224,129); */
+	background: #bfad3b;
 	/* background: aquamarine; */
 }
 .column {
