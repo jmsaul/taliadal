@@ -39,7 +39,8 @@ nav li a {
 	/*  border: 2px solid dodgerblue;  */
 }
 nav li a:hover {
-	background: #e5e5e5;
+	background: rgb(127,224,129);
+	/*  background: #e5e5e5;  */
 }
 #brand {
 	text-indent: -1100px;
