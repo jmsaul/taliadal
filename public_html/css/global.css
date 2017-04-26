@@ -60,7 +60,7 @@ nav li a:hover {
 	text-indent: -1100px;
 	background: url(../img/tiliadal-logo0.png) no-repeat top left;
 	background-size: 92px;
-	height: 92px;
+	height: 80px;
 	width: 92px;
 	float: left;
 	margin: 10px;
@@ -84,7 +84,7 @@ header h3 {
 	clear: both;
 	font-size: 150%;
 	padding: 8px 0 8px 0;
-	/* margin: 0 0 20px 0; */
+	/* margin: 0 0 20px 0;
 	/* background: rgb(127,224,129); */
 	background: #bfad3b;
 	/* background: aquamarine; */
