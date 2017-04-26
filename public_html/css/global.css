@@ -43,7 +43,7 @@ nav li {
 }
 nav li a {
 	padding: 25px 10px;
-	font-size: 125%;
+	font-size: 115%;
 	display: block;
 	text-decoration: none;
 	color: #fafafa;
@@ -63,7 +63,7 @@ nav li a:hover {
 	height: 80px;
 	width: 90px;
 	float: left;
-	margin: 10px 10px 4px 10px;
+	margin: 10px 10px 3px 10px;
 }
 
 #company {
@@ -82,7 +82,7 @@ nav li a:hover {
 
 header h3 {
 	clear: both;
-	font-size: 150%;
+	font-size: 140%;
 	padding: 8px 0 8px 0;
 	/* margin: 0 0 20px 0;
 	/* background: rgb(127,224,129); */
