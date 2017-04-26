@@ -27,12 +27,13 @@ nav ul {
 nav li {
 	float: left;
 	width: auto;
-	color: #fafafa;
+
 }
 nav li a {
 	padding: 25px 10px;
 	display: block;
 	text-decoration: none;
+	color: #fafafa;
 	/* color: #333; */
 	/*  border: 2px solid dodgerblue;  */
 }
