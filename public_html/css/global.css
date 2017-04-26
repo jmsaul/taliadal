@@ -46,10 +46,12 @@ nav li a {
 	/* color: #333; */
 	/*  border: 2px solid dodgerblue;  */
 }
+
 nav li a:hover {
 	background: rgb(127,224,129);
 	/*  background: #e5e5e5;  */
 }
+
 #brand {
 	text-indent: -1100px;
 	background: url(../img/tiliadal-logo0.png) no-repeat top left;
