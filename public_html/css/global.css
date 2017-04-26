@@ -110,8 +110,9 @@ nav li a:hover {
 }
 
 .main-content h3 {
-	font-size: 200%;
-	margin: 20px 0;
+	font-size: 165%;
+	padding: 15px 0;
+	margin: 0 0 0 20px;
 	background: rgb(127,224,129);
 }
 .column {
