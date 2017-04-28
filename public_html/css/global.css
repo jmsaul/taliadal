@@ -117,9 +117,9 @@ header h3 {
 	box-shadow: 3px 3px 5px black;  */
 	padding: 10px 20px;
 	display: inline-block;
-	margin-top: 10px;
+	margin: 10px 0;
 	font-size: 250%;
-	text-shadow: 3px 3px 5px black;
+	text-shadow: 3px 3px 6px black;
 	width: 90%;
 }
 .main-content {
