@@ -124,8 +124,14 @@ header h3 {
 }
 
 .flourish {
+	display: block;
 	margin: 10px auto;
 	width: 100%;
+}
+
+.flourish img {
+	width: 70%;
+	height: 30px;
 }
 
 .main-content {
