@@ -93,10 +93,10 @@ header h3 {
 }
 
 #hero {
-	background: url(../img/tiliadalLindenTree.jpg) no-repeat top left;
+	background: url(../img/tiliadalLindenTree.jpg) repeat-x top left;
 	text-align: center;
 	color: #fafafa;
-	background-size: cover;
+	/*  background-size: cover;  */
 	/*  height: 200px;  */
 	padding: 20px 0;
 }
