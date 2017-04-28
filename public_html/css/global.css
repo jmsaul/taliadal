@@ -126,7 +126,7 @@ header h3 {
 .flourish {
 	display: block;
 	margin: 10px auto;
-	width: 100%;
+	/*  width: 100%;  */
 }
 
 .flourish img {
