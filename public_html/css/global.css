@@ -90,6 +90,7 @@ header h3 {
 	background: #679869;
 	/* background: aquamarine; */
 	text-align: center;
+	border-bottom: solid darkgreen 3px;
 }
 
 #hero {
