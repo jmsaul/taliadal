@@ -122,6 +122,12 @@ header h3 {
 	text-shadow: 3px 3px 6px black;
 	width: 90%;
 }
+
+.flourish {
+	margin: 10px auto;
+	width: 70%;
+}
+
 .main-content {
 	text-align: center;
 	padding: 25px 0;
