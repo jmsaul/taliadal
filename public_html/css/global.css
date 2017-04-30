@@ -195,7 +195,7 @@ header h3 {
 
 .column h4 {
 	color: darkgreen;
-	font-size: 200%;
+	font-size: 150%;
 	margin-bottom: 15px;
 }
 
@@ -210,7 +210,7 @@ header h3 {
 }
 
 .column p {
-	font-size: 140%;
+	font-size: 100%;
 	font-family: 'Lato', sans-serif;
 }
 
