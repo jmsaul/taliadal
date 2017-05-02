@@ -259,6 +259,18 @@ footer
 	text-align: center;
 }
 
+@media only screen and (max-width: 1020px)
+{
+	nav ul {
+		width: 100%;
+		text-align: center;
+		background: darkgreen;
+		display: block;
+		margin: 0 auto;
+	}
+}
+
+
 @media only screen and (max-width: 901px)
 {
 	.column {
