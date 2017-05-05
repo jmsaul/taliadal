@@ -320,6 +320,26 @@ footer
 	text-align: center;
 }
 
+/*  Media Queries and Responsive Styling */
+
+@media only screen and (max-width: 1400px)
+{
+	.first-row {
+		width: 370px;
+		height: 270px;
+	}
+	.second-row {
+		float: left;
+		width: 370px;
+		height: 290px;
+	}
+	.third-row {
+		width: 370px;
+		height: 310px;
+	}
+
+}
+
 @media only screen and (max-width: 1020px)
 {
 	nav ul {
@@ -328,6 +348,7 @@ footer
 		background: darkgreen;
 		display: block;
 		margin: 0 auto;
+		width: 100%;
 	}
 }
 
@@ -353,4 +374,31 @@ footer
 		padding: 0px;
 		margin: 0 0 40px 0;
 	}
+}
+
+@media only screen and (max-width: 450px)
+{
+	/* adjusting the nav bar for smaller screens */
+	nav {
+		height: 95px ;
+	}
+
+	#brand {
+		/*  margin-top: 20px; */
+	}
+
+	#company {
+		max-width: 220px;
+		font-size: 150%;
+		margin: 8px;
+	}
+
+	nav h3 {
+		font-size: 120%;
+	}
+
+	nav li a {
+		padding: 10px 10px;
+	}
+}
 }
