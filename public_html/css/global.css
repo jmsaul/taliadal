@@ -265,6 +265,18 @@ header h3 {
 	font-family: 'Lato', sans-serif;
 }
 
+.column p, .first-row p, .second-row p, .third-row p {
+	font-size: 110%;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+.column a, .first-row a, .second-row a, .third-row a {
+	font-family: 'Lato', sans-serif;
+	font-size: 115%;
+	margin: 10px auto;
+}
+
 /**  End stylind of Main Content & Service bullets  **/
 
 #social {
