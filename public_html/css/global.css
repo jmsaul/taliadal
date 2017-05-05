@@ -92,7 +92,7 @@ header h3 {
 	background: #679869;
 	/* background: aquamarine; */
 	text-align: center;
-	border-bottom: solid darkgreen 3px;
+	border-bottom: solid darkgreen 4px;
 }
 
 #hero {
@@ -110,7 +110,7 @@ header h3 {
 #hero img {
 	width: 150px;
 	border-radius: 50%;
-	xmargin-top: 30px;
+	margin-top: 30px;
 }
 #hero h2 {
 	font-size: 300%;
@@ -149,11 +149,13 @@ header h3 {
 /**  Main Content Styling **/
 
 .main-content {
-	/*  text-align: center;
+	text-align: center;
 	padding: 25px 0;
-	overflow: hidden;  */
+	overflow: hidden;
 	background: url(../img/tiliadalLindenTree.jpg) no-repeat top left;
 	background-size: cover;
+	display: block;
+	margin: 0 auto;
 }
 
 
@@ -186,6 +188,46 @@ header h3 {
 }
 
 /*  Just needed a change  */
+
+.first-row{
+	float: left;
+	width: 430px;
+	/*  width: 410px;  */
+	padding: 10px;
+	margin: 10px;
+	background: #FFF9E9;
+	border: solid black 4px;
+	text-align: center;
+	height: 240px;
+	display: block;
+
+}
+
+.second-row{
+	float: left;
+	width: 430px;
+	/*  width: 410px;  */
+	padding: 10px;
+	margin: 10px;
+	background: #FFF9E9;
+	border: solid black 4px;
+	text-align: center;
+	height: 270px;
+	display: block;
+}
+
+.third-row {
+	float: left;
+	width: 430px;
+	/*  width: 410px;  */
+	padding: 10px;
+	margin: 10px;
+	background: #FFF9E9;
+	border: solid black 4px;
+	text-align: center;
+	height: 280px;
+	display: block;
+}
 
 .column img {
 	width: 70%;
