@@ -237,6 +237,13 @@ header h3 {
 	margin-bottom: 20px;
 }
 
+.column h4, .first-row h4, .second-row h4, .third-row h4 {
+	color: darkgreen;
+	font-size: 200%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
 .column h4 {
 	color: darkgreen;
 	font-size: 150%;
