@@ -358,7 +358,7 @@ footer
 		width: 100%;
 		background: darkgreen;
 		display: block;
-		margin: 0 auto;
+		/*  margin: 0 auto;
 		clear: both;
 		/*  many need to define the font for navbar links  */
 	}
