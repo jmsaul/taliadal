@@ -400,7 +400,7 @@ footer
 	}
 
 	#company {
-		max-width: 175px;
+		max-width: 160px;
 		/* Change width from 220px to 180px */
 		font-size: 150%;
 		margin: 8px;
@@ -411,6 +411,6 @@ footer
 	}
 
 	nav li a {
-		padding: 10px 10px;
+		padding: 5px 10px;
 	}
 }
