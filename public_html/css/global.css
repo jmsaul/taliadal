@@ -415,16 +415,16 @@ footer
 	}
 
 	.first-row {
-		width: 325px;
+		width: 270px;
 		height: 270px;
 	}
 	.second-row {
 		float: left;
-		width: 325px;
+		width: 270px;
 		height: 290px;
 	}
 	.third-row {
-		width: 325px;
+		width: 270px;
 		height: 310px;
 	}
 }
