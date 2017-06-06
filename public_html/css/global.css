@@ -413,4 +413,18 @@ footer
 	nav li a {
 		padding: 5px 10px;
 	}
+
+	.first-row {
+		width: 325px;
+		height: 270px;
+	}
+	.second-row {
+		float: left;
+		width: 325px;
+		height: 290px;
+	}
+	.third-row {
+		width: 325px;
+		height: 310px;
+	}
 }
