@@ -141,7 +141,7 @@
 								<h2><a class="landinglinks" href="pages/research/index.php">Research Projects</a></h2>
 							</div>
 							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/consulting/index.php">Consulting</a></h2>
+								<h2><a class="landinglinks" href="pages/services/index.php">Consulting</a></h2>
 							</div>
 							<div class="col-md-2">
 								<h2><a class="landinglinks" href="pages/workshops/index.php">Workshops Offered</a></h2>

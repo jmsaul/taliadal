@@ -37,10 +37,12 @@
 					<h2 id="company">Tiliadal STEM Education Solutions</h2>
 					<ul>
 						<!--  Main Navigation links -->
-						<li><a href="index0.html">Home</a></li>
-						<li><a href="/pages/services/index.html">Services</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="/pages/projects/index.html">Projects</a></li>
+						<li><a href="/pages/pwrpoint/index.html">Presentatons</a></li>
+						<li><a href="/pages/workshops/index.html">Workshops</a></li>
 						<li><a href="/pages/publications/index.html">Publications</a></li>
+						<li><a href="/pages/services/index.html">Services</a></li>
 						<li><a href="/pages/meet-team/index.html">Meet the Team</a></li>
 						<li><a href="mailto:jsaul@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
 					</ul>
