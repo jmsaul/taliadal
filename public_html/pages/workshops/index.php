@@ -65,7 +65,7 @@
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="../../index.php">Home</a></li>
+						<li><a href="../../index0.php">Home</a></li>
 						<li><a href="../team/index.php">Meet our Team</a></li>
 						<li><a href="../research/index.php">Research</a></li>
 						<li><a href="../consulting/index.php">Consulting</a></li>

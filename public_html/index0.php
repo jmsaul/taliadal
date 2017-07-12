@@ -22,7 +22,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="../../css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -65,13 +65,13 @@
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="../../index0.php">Home</a></li>
-						<li><a href="../team/index.php">Meet our Team</a></li>
-						<li><a href="../research/index.php">Research</a></li>
-						<li><a href="../consulting/index.php">Consulting</a></li>
-						<li><a href="../workshops/index.php">Workshops</a></li>
-						<li><a href="../blog/index.php">Blog</a></li>
-						<li><a href="../contact-us/index.php">Contact Us</a></li>
+						<li><a href="index0.php">Home</a></li>
+						<li><a href="/pages/team/index.php">Meet our Team</a></li>
+						<li><a href="/pages/research/index.php">Research</a></li>
+						<li><a href="/pages/consulting/index.php">Consulting</a></li>
+						<li><a href="/pages/workshops/index,.hp">Workshops</a></li>
+						<li><a href="/pages/blog/index.php">Blog</a></li>
+						<li><a href="/pages/contact-us/index.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -79,7 +79,7 @@
 			<main class="main-format container-fluid">
 
 				<div class="container">
-					<div class="text-justify">
+					<div class="text-center">
 
 						<!-- Spacing from top --
 						<br/> -->
@@ -90,30 +90,70 @@
 						<br/>
 						<br/>
 
-						<h1>Meet our Team</h1>
-						<p>Our team has the ability to step in at any stage of a project to give clients the attention and advice they need to complete their projects in a timely fashion.  We offer a variety of consulting services including:
-						</p>
-						<h2>Services:</h2>
-						<ul>
-							<li>Seek out external funding and help with grant writing</li>
-						</ul>
-						<h2>Skills</h2>
-						<ul>
-							<li>•	Research Skills necessary to take a project from Research Design to final data analysis
-							</li>
-							<li>•	Strong Communication Skills to produce and provide clear and readable proposals, research progress reports and professional papers.
-							</li>
-							<li>•	Writing skills necessary to improve papers and grants
-							</li>
-							<li>•	STEM Curriculum Development and Evaluations at all levels of students from K-20
-							</li>
-							<li>•	Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
-							</li>•	Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
+						<div class="row">
+							<div class="top-row">
+								<div class="col-md-6">
+									<div>
+										<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
+									</div>
 
-							<li>
+								</div>
 
-							</li>
-						</ul>
+								<!--
+								<div class="col-md-1">
+									<!-- This is a blank column -->
+								<!-- </div> -->
+
+								<div class="col-md-6">
+									<div class="intro">
+										<!-- <br/>
+										<br/>
+										<br/> -->
+										<!-- <h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>  -->
+										<!--
+										<h2 class="h2-Tiliadal">Institute</h2> -->
+										<br/>
+										<br/>
+										<p>We are an interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
+										<br/>
+										<!--  <h2>Areas of Expertise:</h2>  -->
+										<dl>
+											<dt>STEM Education Disciplines: </dt>
+												<dd>Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</dd>
+										</dl>
+										<dl>
+											<dt>Skills:</dt>
+											<dd>Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project/Program Evaluation, Assessment Creation and Analysis, Dissemination, and Professional Development</dd>
+										</dl>
+										<br/>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+							<!-- 2nd row: Orgainzation Information Links -->
+						<div class="row">
+							<div class="col-md-2">
+								<h2><a class="landinglinks" href="pages/team/index.php">Meet our Team</a></h2>
+							</div>
+							<div class="col-md-2">
+								<h2><a class="landinglinks" href="pages/research/index.php">Research Projects</a></h2>
+							</div>
+							<div class="col-md-2">
+								<h2><a class="landinglinks" href="pages/consulting/index.php">Consulting</a></h2>
+							</div>
+							<div class="col-md-2">
+								<h2><a class="landinglinks" href="pages/workshops/index.php">Workshops Offered</a></h2>
+							</div>
+							<div class="col-md-1">
+								<h2><a class="landinglinks" href="pages/blog/index.php">Blog</a></h2>
+							</div>
+							<div class="col-md-2">
+								<h2><a class="landinglinks" href="/pages/contact-us/index.php">Contact Us</a></h2>
+							</div>
+						</div>
+						<!-- End of 2nd row in main section -->
 					</div>
 				</div>
 				<br/>

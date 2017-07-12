@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 	<head>
-		<!-- The 3 meta tags *must* come first in the head; any other head content must come *after* these tags  		-->
-		<meta charset="utf-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"
+		<meta charset="UTF-8">
+		<title>Stem Ed Solutions</title>
 
-		<!-- Bootstrap latest compiled and minified CSS		-->
-		<!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
-				integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
-				crossorigin="anonymous"> -->
-
-		<!-- Optional Bootstrap Theme -->
-		<!-- Latest compiled and minified CSS -->
+		<!-- CDN Bootstrap Libraries -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- Optional theme -->
@@ -20,170 +13,182 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<!--  End of CDN Bootstrap Libraries -->
 
-		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<!-- Load CSS style sheets -->
+		<!--  resets CSS defaults  -->
+		<link rel="stylesheet" href="css/reset.css">
+		<!--  CSS styling for this website  -->
+		<link rel="stylesheet" href="css/global.css">
 
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!-- [if it IE 9]>
-			<script src="//css.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-			<script src="//css.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<! [endif]-->
-
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
-
-		<!-- Bootstrap latest compiled and minified Javascript -->
-		<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
-				  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
-				  crossorigin="anonymous"></script>  -->
-
-		<title>Tiliadal STEM Ed</title>
+		<!-- media query set-up -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=true;">
 	</head>
 
-	<body class="sfooter">
-		<div class="sfooter-content">
-			<nav class="navbar navbar-inverse navbar-fixed-top">
-				<!-- logo and mobile toggle button get grouped together for better mobile display -->
-				<div class="navbar-header">
-					<!-- this is the mobile menu button -->
-					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-						<span class="sr-only">main menu</span>
-						<span class="glyphicon glyphicon-menu-hamburger white-text0"></span>
-					</button>
-					<span>
-						<p class="white-text0">Tiliadal STEM Education</p>
-					</span>
-					<!-- <div class="clearfix"></div> -->
-					<p class="white-text1">Enabling you to grow your seed of an idea into reality</p>
-				</div>
-
-
-				<!-- here are your main nav links, grouped for toggling -->
-				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="/pages/team/index.php">Meet our Team</a></li>
-						<li><a href="/pages/research/index.php">Research</a></li>
-						<li><a href="/pages/consulting/index.php">Consulting</a></li>
-						<li><a href="/pages/workshops/index,.hp">Workshops</a></li>
-						<li><a href="/pages/blog/index.php">Blog</a></li>
-						<li><a href="/pages/contact-us/index.php">Contact Us</a></li>
+	<body>
+		<header>
+			<!-- This is the main navigation bar -->
+			<!-- Next Steps:  Would like to put company name into 2 rows and realign the navigation links so that they are verically centered -->
+			<nav>
+				<div class="container nav-bckgrnd">
+					<!--  Note that this <h1> text does not appear on screeen -->
+					<h1 id="brand">Tiliadal STEM Education Solutions</h1>
+					<br/>
+					<h2 id="company">Tiliadal STEM Education Solutions</h2>
+					<ul>
+						<!--  Main Navigation links -->
+						<li><a href="index0.html">Home</a></li>
+						<li><a href="/pages/services/index.html">Services</a></li>
+						<li><a href="/pages/projects/index.html">Projects</a></li>
+						<li><a href="/pages/publications/index.html">Publications</a></li>
+						<li><a href="/pages/meet-team/index.html">Meet the Team</a></li>
+						<li><a href="mailto:jsaul@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
 					</ul>
 				</div>
+				<!-- Company Slogan - may need further work -->
+				<h3>Personalized Solutions to Help You Grow Your Educational Ideas into Reality</h3>
 			</nav>
+			<!-- End of Navigatoin bar in header section -->
+		</header>
 
-			<main class="main-format container-fluid">
-
-				<div class="container">
-					<div class="text-center">
-
-						<!-- Spacing from top --
-						<br/> -->
-						<br/>
-						<br/>
-						<hr>
-						<br/>
-						<br/>
-						<br/>
-
-						<div class="row">
-							<div class="top-row">
-								<div class="col-md-6">
-									<div>
-										<img class="tree-image" src="img/tiliadalLindenTree.jpg" alt="Tiliadal STEM Ed tree logo"/>
-									</div>
-
-								</div>
-
-								<!--
-								<div class="col-md-1">
-									<!-- This is a blank column -->
-								<!-- </div> -->
-
-								<div class="col-md-6">
-									<div class="intro">
-										<!-- <br/>
-										<br/>
-										<br/> -->
-										<!-- <h1 class="h1-Tiliadal">Tiliadal STEM Education</h1>  -->
-										<!--
-										<h2 class="h2-Tiliadal">Institute</h2> -->
-										<br/>
-										<br/>
-										<p>We are an interdisciplinary team of STEM Education Researchers and Science Educators dedicated to improving STEM Education research, teaching, and development at all levels.</p>
-										<br/>
-										<!--  <h2>Areas of Expertise:</h2>  -->
-										<dl>
-											<dt>STEM Education Disciplines: </dt>
-												<dd>Astronomy, Biology, Chemistry, Engineering, Physics, STEM Education, and and Learning Theory</dd>
-										</dl>
-										<dl>
-											<dt>Skills:</dt>
-											<dd>Strong Communication Skills, Advisory, Grant Writing, Curriculum Development, Project/Program Evaluation, Assessment Creation and Analysis, Dissemination, and Professional Development</dd>
-										</dl>
-										<br/>
-									</div>
-								</div>
-							</div>
-						</div>
-
-
-							<!-- 2nd row: Orgainzation Information Links -->
-						<div class="row">
-							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/team/index.php">Meet our Team</a></h2>
-							</div>
-							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/research/index.php">Research Projects</a></h2>
-							</div>
-							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/consulting/index.php">Consulting</a></h2>
-							</div>
-							<div class="col-md-2">
-								<h2><a class="landinglinks" href="pages/workshops/index.php">Workshops Offered</a></h2>
-							</div>
-							<div class="col-md-1">
-								<h2><a class="landinglinks" href="pages/blog/index.php">Blog</a></h2>
-							</div>
-							<div class="col-md-2">
-								<h2><a class="landinglinks" href="/pages/contact-us/index.php">Contact Us</a></h2>
-							</div>
-						</div>
-						<!-- End of 2nd row in main section -->
-					</div>
-				</div>
-				<br/>
-			</main>
-		</div>
-
-
-		<footer class="footer">
+		<!-- Main Content Section of the Webpage ** list services for potential clients -->
+		<section class="main-content">
 			<div class="container">
-				<p class="text-muted">Copyright 2016 J. Saul>
-			<span class="pull-right">
 
-				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="/pages/about.php">Upcoming 2017 Meetings</a></li>
-						<li><a href="/pages/services.php">Resources</a></li>
-						<li><a href="/pages/projects.php">Blogs</a></li>
-						<!--	This will send an email to jsaul@tiliadal.com		-->
-						<li><a href="mailto:jsaul@tiliadal.com">Email Tiliadal</a></li>
+				<!-- ********************************** -->
+				<!-- Row 1 of bulleted services offered -->
+				<!-- ********************************** -->
+				<section class="first-row" id="home1">
+					<div class="serviceCard">
+						<!--  <img src="images/africa.png" alt="Microscope">  -->
+						<h4>Research Design Solutions</h4>
+						<p>We can help you design your research project from methodology, collection of data to analysis of data.  </p>
+						<br/>
+						<a href="xxx">Learn More</a>
+						<!-- tertiary navigation buttons -->
+						<!-- <a href="" class="btn">See my home</a>  -->
+					</div>
+				</section>
+				<section class="first-row" id="diet1">
+					<div class="serviceCard">
+						<!--  <img src="images/grass.jpg" alt="Teacher Workshop">  -->
+						<h4>Evaluation Solutions</h4>
+						<p>Our specialists possess expertise in a wide variety of STEM education disciplines and are experienced at conducting external evaluation, serving as research advisors, and program review.	</p>
+						<!-- tertiary navigation buttons -->
+						<!-- <a href="" class="btn">Grass is great</a>  -->
+						<br/>
+						<a href="xxx">Learn More</a>
+					</div>
+				</section>
+				<section class="first-row" id="pattern1">
+					<div class="serviceCard">
+						<!--  <img src="images/stripes.jpg" alt="Student Team">  -->
+						<h4>Professional Development Solutions</h4>
+						<p>We offer a wide-ranging array of custom in-person and virtual workshops designed to  meet all of your professional development needs.</p>
+						<!-- tertiary navigation buttons -->
+						<!--  <a href="" class="btn">Check out my stripes</a>  -->
+						<br/>
+						<a href="xxx">Learn More</a>
+					</div>
+				</section>
 
-					</ul>
-				</div>
-				<!--
-				<a class="btn btn-primary" href="mailto:jsaul@tiliadal.com"
-					role="button">Email Tiliadal</a> -->
-			</span>
-				</p>
-				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
+				<!-- End of row one of bulleted client services offered -->
+
+				<!-- ********************************** -->
+				<!-- Row 2 of bulleted services offered -->
+				<!-- ********************************** -->
+
+				<section class="second-row" id="home2">
+					<!--  <img src="images/africa.png" alt="JRST cover"> -->
+					<h4>Curriculum Development Solutions</h4>
+					<p>We can help you meet all your curriculum development needs, from assisting writing of your learning objectives to the creation of active learning materials for your course.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">See my home</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
+				<section class="second-row" id="diet2">
+					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
+					<h4>Concept Inventory Development Solutions</h4>
+					<p>Need to choose a concept inventory for part of your evaluation? Interested in developing a concept inventory? Our specialists have CI development experience for all STEM disciplines.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">Learn more</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
+				<section class="second-row" id="pattern2">
+					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
+					<h4>Data Analysis Solutions</h4>
+					<p>Need assistance analyzing your data, need an expert in qualitative, quantitative or mixed methods research, just don’t have time to analyze your data? We provide custom solutions to assist with all of your data analysis needs.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
+
+				<!-- ********************************** -->
+				<!-- Row 3 of bulleted services offered -->
+				<!-- ********************************** -->
+
+				<section class="third-row" id="home3">
+					<!--  <img src="images/africa.png" alt="JRST cover">  -->
+					<h4>Educational Website Solutions</h4>
+					<p>Ready to take the next step in promoting your research project by producing an interactive learning website? Have other web-based needs?  We can develop custom educational websites that bring faculty and students to you.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">See my home</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
+				<section class="third-row" id="diet3">
+					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
+					<h4>Writing Solutions</h4>
+					<p>We have solutions for assisting in all your writing needs from assisting with writing up your project, figuring out where to publish and writing/ reviewing your grant proposal and other publications.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">Learn more</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
+				<section class="third-row" id="pattern3">
+					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
+					<h4>Custom Solutions</h4>
+					<p> Whether you need help finding funding, implementing, assessing, evaluating, or dissemination, our team of specialists will work with you and help you bring your ideas and your project to the next stage.</p>
+					<!-- tertiary navigation buttons -->
+					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
+					<br/>
+					<a href="xxx">Learn More</a>
+				</section>
 			</div>
-		</footer>
+		</section>
 
+		<!--  Emd of main contect Section -->
+		</div>
+		<!-- Flourish separator begins here -->
+		<section class="separator">
+			<img src="img/flourish1-.gif" class="flourish" alt="flourish divider" />
+		</section>
+		<!-- Flourish separator emds here -->
+
+		<!--  Hero Section with company mission statement -->
+		<section id="hero">
+			<!-- inset hero image -->
+			<!--  <img src="images/zebra.jpg" alt="Zebra"/>  -->
+			<span class="motto">We are an interdisciplinary team of Science Educators, Cognitive and Learning Scientists, and STEM Education Researchers dedicated to improving STEM teaching, development, and education research at all education levels.</span>
+		</section>
+
+		<section id="social">
+			<div class="container">
+				<h3>Coming soon to a social media platform near you.</h3>
+				<!--    Commenting out socal media links for btomt
+				<ul>
+					<li><img src="img/facebook.svg" alt="Facebook"/></li>
+					<li><img src="img/twitter.svg" alt="Twitter"/></li>
+					<li><img src="img/instagram.svg" alt="Instagram"/></li>
+					<li><img src="img/linkedin.svg" alt="LinkedIn"/></li>
+				</ul> -->
+			</div>
+		</section>
+		<footer>
+			<p>&copy; 2017 Webmansaul</p>
+		</footer>
 	</body>
 </html>
