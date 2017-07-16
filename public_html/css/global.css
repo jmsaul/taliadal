@@ -179,6 +179,14 @@ header h3 {
 	background-color: red;
 }
 
+.main-content h2 #pageHeader {
+	font-size: 250%;
+	margin: 20px 0;
+	background-color: darkgreen;
+	color: white;
+}
+
+
 /**  Stylind for service bullets **/
 
 .column {

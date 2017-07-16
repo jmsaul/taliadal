@@ -37,7 +37,7 @@
 					<h2 id="company">Tiliadal STEM Education Solutions</h2>
 					<ul>
 						<!--  Main Navigation links -->
-						<li><a href="index.php">Home</a></li>
+						<li><a href="../../index.php">Home</a></li>
 						<li><a href="/pages/projects/index.php">Projects</a></li>
 						<li><a href="/pages/pwrpoint/index.php">Presentatons</a></li>
 						<li><a href="/pages/workshops/index.php">Workshops</a></li>
@@ -56,6 +56,7 @@
 		<!-- Main Content Section of the Webpage ** list services for potential clients -->
 		<section class="main-content">
 			<div class="container">
+				<h2>Under Construction</h2>
 				<h2 id="pageHeader">Current Projects</h2>
 			<!-- ********************************** -->
 			<!-- List of Projects						 -->
@@ -66,7 +67,7 @@
 		</div>
 		<!-- Flourish separator begins here -->
 		<section class="separator">
-			<img src="img/flourish1-.gif" class="flourish" alt="flourish divider" />
+			<img src="../../img/flourish1-.gif" class="flourish" alt="flourish divider" />
 		</section>
 		<!-- Flourish separator emds here -->
 
