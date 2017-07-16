@@ -179,7 +179,7 @@ header h3 {
 	background-color: red;
 }
 
-.main-content h2 #pageHeader {
+#pageHeader {
 	font-size: 250%;
 	margin: 20px 0;
 	background-color: darkgreen;
