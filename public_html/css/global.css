@@ -173,7 +173,7 @@ header h3 {
 
 }
 
-.main-content h2 {
+.main-content h2 .building {
 	font-size: 250%;
 	margin: 20px 0;
 	background-color: red;

@@ -56,7 +56,7 @@
 		<!-- Main Content Section of the Webpage ** list services for potential clients -->
 		<section class="main-content">
 			<div class="container">
-				<h2>Under Construction</h2>
+				<h2 class="building">Under Construction</h2>
 				<h2 id="pageHeader">Current Projects</h2>
 			<!-- ********************************** -->
 			<!-- List of Projects						 -->
