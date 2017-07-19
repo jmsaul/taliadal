@@ -62,7 +62,7 @@
 			<!-- List of Projects						 -->
 				<h3>Readability Study (Carroll & Lindell)</h3>
 				<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?</p>
-				<a href="readability.php">Learn More</a>
+				<a href="readabilitystudy/index.html">Learn More</a>
 
 				<!-- ********************************** -->
 			<!-- ********************************** -->
