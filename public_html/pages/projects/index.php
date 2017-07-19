@@ -44,7 +44,7 @@
 						<li><a href="../papers/index.php">Publications</a></li>
 						<li><a href="../services/index.php">Services</a></li>
 						<li><a href="../team/index.php">Meet the Team</a></li>
-						<li><a href="mailto:jsaul@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
+						<li><a href="mailto:jsaul@tiliadal.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
 					</ul>
 				</div>
 				<!-- Company Slogan - may need further work -->
