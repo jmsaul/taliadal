@@ -38,7 +38,7 @@
 					<ul>
 						<!--  Main Navigation links -->
 						<li><a href="../../index.php">Home</a></li>
-						<li><a href="../projects/index.php">Projects</a></li>
+						<li><a href="index.php">Projects</a></li>
 						<li><a href="../pwrpoint/index.php">Presentatons</a></li>
 						<li><a href="../workshops/index.php">Workshops</a></li>
 						<li><a href="../papers/index.php">Publications</a></li>
