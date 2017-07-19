@@ -162,6 +162,15 @@ header h3 {
 	margin: 0 auto;
 }
 
+.pages-content {
+	text-align: center;
+	padding: 25px 0;
+	overflow: hidden;
+	background-size: cover;
+	display: block;
+	margin: 0 auto;
+}
+
 
 .row {
 	text-align: center;

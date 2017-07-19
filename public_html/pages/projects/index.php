@@ -54,7 +54,7 @@
 		</header>
 
 		<!-- Main Content Section of the Webpage ** list services for potential clients -->
-		<section class="main-content">
+		<section class="pages-content">
 			<div class="container">
 				<h2 id="pageHeader">Current Projects</h2>
 
