@@ -173,17 +173,16 @@ header h3 {
 
 }
 
-.main-content h2 .building {
+.building {
 	font-size: 250%;
 	margin: 20px 0;
 	background-color: red;
 }
 
 #pageHeader {
-	font-size: 250%;
-	margin: 20px 0;
+	font-size: 200%;
+	margin: 20px 0 40px 0;
 	background-color: darkgreen;
-	padding: 20px;
 	color: white;
 }
 
