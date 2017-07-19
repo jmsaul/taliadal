@@ -61,8 +61,10 @@
 
 			<!-- List of Projects						 -->
 				<h3>Readability Study (Carroll & Lindell)</h3>
-				<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?</p>
-
+				<p>A text’s perceived difficulty can be affected by typography: the style and appearance of printed data[1]. Typography determines the ease with which a reader can identify individual characters in a text, and the ease with which a reader can recognize words [2]. It can also impact the ease with which a student can understand material, particularly when that student has a reading disability. The British Dyslexia Association (BDA) provides accessibility guidelines for fonts, layouts, and headings, designed so students with reading disabilities can read more comfortably [3]. This leads to the research question: Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?</p>
+				<ol>
+					<li>Wikipedia. Typography — wikipedia, the free encyclopedia. <a href="https://en.wikipedia.org/w/index.php?title=Typography">https://en.wikipedia.org/w/index.php?title=Typography</a>, 2017. [Online; accessed 07-July-2017].</li>
+				</ol>
 				<!-- ********************************** -->
 			<!-- ********************************** -->
 

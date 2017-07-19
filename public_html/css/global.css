@@ -353,6 +353,13 @@ footer
 
 }
 
+@media only screen and (max-width: 1280px)
+{
+	body {
+		padding-top: 200px;
+	}
+}
+
 @media only screen and (max-width: 1060px)
 {
 	body {
