@@ -65,11 +65,11 @@
 					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?  </p>
 					<a href="readabilitystudy/index.html">Learn More</a>
 					<br/>
+					<br/>
 				</div>
 				<div class="left-justify">
 					<h3 class="project-name">Parachute Class</h3>
 					<p>xxx</p>
-					<br/>
 					<br/>
 				</div>
 			</div>
