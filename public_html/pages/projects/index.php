@@ -62,8 +62,23 @@
 			<!-- List of Projects						 -->
 				<div class="left-justify">
 					<h3 class="project-name">Readability Study (Carroll & Lindell)</h3>
-					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?  <a href="readabilitystudy/index.html">Learn More</a></p>
+					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?  </p>
+					<a href="readabilitystudy/index.html">Learn More</a>
 				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Parachute Class</h3>
+					<p>xxx</p>
+				</div>
+			</div>
+			<div class="left-justify">
+				<h3 class="project-name">Pschometric Analysis, Item Response Theory, and Conceptual Assessments</h3>
+				<p>xxx</p>
+			</div>
+			</div>
+			<div class="left-justify">
+				<h3 class="project-name">IOLAB interface</h3>
+				<p>xxx</p>
+			</div>
 
 				<!-- ********************************** -->
 			<!-- ********************************** -->
