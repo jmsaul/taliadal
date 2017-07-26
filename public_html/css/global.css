@@ -99,6 +99,10 @@ header h3 {
 	border-bottom: solid darkgreen 4px;
 }
 
+.left-justify {
+	text-align: left;
+}
+
 #hero {
 	/*  background: url(../img/tiliadalLindenTree.jpg) repeat-x top left; */
 	background: #FFF9E9;
