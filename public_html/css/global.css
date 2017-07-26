@@ -176,6 +176,9 @@ header h3 {
 	margin: 0 auto;
 }
 
+.projectContent {
+	text-align: left;
+}
 
 .row {
 	text-align: center;
