@@ -210,10 +210,11 @@ ul.rsrchqstns2 {
 
 #pageHeader {
 	font-size: 200%;
-	padding: 0 5px;
-	margin: 0 0;
+	padding: 0 10px;
+	/**  margin: 0 0;  **/
 	background-color: darkgreen;
 	color: white;
+	text-align: center;
 }
 
 
