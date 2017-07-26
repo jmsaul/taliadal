@@ -183,6 +183,10 @@ header h3 {
 	text-align: left;
 }
 
+ul.rsrchqstns {
+	list-style-type: disc;
+}
+
 .row {
 	text-align: center;
 	display: block;
