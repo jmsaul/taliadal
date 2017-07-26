@@ -61,7 +61,7 @@
 
 			<!-- List of Projects						 -->
 				<div class="left-justify">
-					<h3 class="project-name">Readability Study (Carroll & Lindell)</h3>
+					<h3 class="project-name">Typography and Readability Study (Carroll & Lindell)</h3>
 					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments?  </p>
 					<a href="readabilitystudy/index.html">Learn More</a>
 					<br/>
@@ -72,18 +72,62 @@
 					<p>xxx</p>
 					<br/>
 				</div>
-			</div>
-			<div class="left-justify">
-				<h3 class="project-name">Pschometric Analysis, Item Response Theory, and Conceptual Assessments</h3>
-				<p>xxx</p>
-				<br/>
-			</div>
-			</div>
-			<div class="left-justify">
-				<h3 class="project-name">IOLAB interface</h3>
-				<p>xxx</p>
-				<br/>
-			</div>
+				<div class="left-justify">
+					<h3 class="project-name">Using Pschometrics to Understand the Gender Difference on the Force Concept Inventory</h3>
+					<p>Utilizing classical and modern test theory to exam males and female student populations independently to determine unfair items on the Force Concept Inventory.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Item Response Theory and Conceptual Assessments</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">IOLAB interface</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Investigating conceptual learning assessment instrument development methodologies using the CLAIMS</h3>
+					<p>Developed the CLAIMS survey to investigate different “concept inventory” development methodologies as well as developers claims of validity, reliability and fairness.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Network Analysis and the LPCI</h3>
+					<p>Uncovering modules of student thinking of lunar phases utilizing the MAMCR methodology developed by Brewe, Bruin and Fletcher on the database of N=2000 LPCI responses.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Exploring teachers’ professional development on their students understanding of lunar phases</h3>
+					<p>Middle school teachers participated in a multi-week professional development sequence on earth science including astronomy.  After the professional development the teachers adapted what they learned into their curriculum. Focuses on how well  both the teachers and the students mastered lunar phases as measured by the LPCI.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">A critical review of spatial reasoning and astronomy literature</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Developing advanced physics activities utilizing modern topics in planetary science</h3>
+					<p>Combining the skills of a forward-thinking planetary scientist (J. Steckloff) with an astronomy education research expert (R. Lindell) to design and field test a series of multi-media exercises for advanced high school and introductory physics or planetary science majors. Two activities developed more in progress.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">CourseNetworking: A social media supported LMS</h3>
+					<p>Investigating how the CourseNetworking supports interaction outside the physics classroom.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Astronomy Applets</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Student Centered Active Learning Environment for Upside-down Pedagogies (SCALE-UP)</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+
 
 				<!-- ********************************** -->
 			<!-- ********************************** -->
