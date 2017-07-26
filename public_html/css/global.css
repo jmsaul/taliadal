@@ -168,11 +168,10 @@ header h3 {
 
 .pages-content {
 	background: #FFF9E9;
-	padding: 25px 0;
+	padding: 25px;
 	overflow: hidden;
 	background-size: cover;
 	display: block;
-	margin: 0 25px;
 }
 
 
