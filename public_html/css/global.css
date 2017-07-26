@@ -218,6 +218,11 @@ ul.rsrchqstns2 {
 	width: 100%
 }
 
+.pageheadings {
+	font-size: 150%;
+	font-weight: bold;
+}
+
 
 /**  Styling for service post-its **/
 
