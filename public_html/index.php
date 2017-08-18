@@ -38,13 +38,14 @@
 					<ul>
 						<!--  Main Navigation links -->
 						<li><a href="index.php">Home</a></li>
-						<li><a href="/pages/projects/index.php">Projects</a></li>
-						<li><a href="/pages/pwrpoint/index.php">Presentatons</a></li>
-						<li><a href="/pages/workshops/index.php">Workshops</a></li>
-						<li><a href="/pages/publications/index.php">Publications</a></li>
-						<li><a href="/pages/services/index.php">Services</a></li>
-						<li><a href="/pages/meet-team/index.php">Meet the Team</a></li>
-						<li><a href="mailto:jsaul@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
+						<!--  <li><a href="/pages/projects/index.php">Projects</a></li>
+						<li><a href="/pages/pwrpoint/index.php">Presentatons</a></li> -->
+						<li><a href="/pages/aboutus/index.php">About Us</a></li>
+						<li><a href="/pages/workshops/index.php">Workshops Offered</a></li>
+						<!--  <li><a href="/pages/publications/index.php">Publications</a></li> -->
+						<li><a href="/pages/services/index.php">Services Offered</a></li>
+						<li><a href="/pages/team/index.php">Meet the Team</a></li>
+						<li><a href="mailto:jsaul@stemedsolutions.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed Solutions">Contact us</a></li>
 					</ul>
 				</div>
 				<!-- Company Slogan - may need further work -->

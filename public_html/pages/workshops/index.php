@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 	<head>
-		<!-- The 3 meta tags *must* come first in the head; any other head content must come *after* these tags  		-->
-		<meta charset="utf-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"
+		<meta charset="UTF-8">
+		<title>Stem Ed Solutions</title>
 
-		<!-- Bootstrap latest compiled and minified CSS		-->
-		<!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
-				integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
-				crossorigin="anonymous"> -->
-
-		<!-- Optional Bootstrap Theme -->
-		<!-- Latest compiled and minified CSS -->
+		<!-- CDN Bootstrap Libraries -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- Optional theme -->
@@ -20,130 +13,155 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<!--  End of CDN Bootstrap Libraries -->
 
-		<!-- Custom CSS -->
-		<link rel="stylesheet" href="../../css/style.css" type="text/css"/>
+		<!-- Load CSS style sheets -->
+		<!--  resets CSS defaults  -->
+		<link rel="stylesheet" href="../../css/reset.css">
+		<!--  CSS styling for this website  -->
+		<link rel="stylesheet" href="../../css/global.css">
 
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!-- [if it IE 9]>
-			<script src="//css.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-			<script src="//css.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<! [endif]-->
-
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
-
-		<!-- Bootstrap latest compiled and minified Javascript -->
-		<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
-				  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
-				  crossorigin="anonymous"></script>  -->
-
-		<title>Tiliadal STEM Ed</title>
+		<!-- media query set-up -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=true;">
 	</head>
 
-	<body class="sfooter">
-		<div class="sfooter-content">
-			<nav class="navbar navbar-inverse navbar-fixed-top">
-				<!-- logo and mobile toggle button get grouped together for better mobile display -->
-				<div class="navbar-header">
-					<!-- this is the mobile menu button -->
-					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
-						<span class="sr-only">main menu</span>
-						<span class="glyphicon glyphicon-menu-hamburger white-text0"></span>
-					</button>
-					<span>
-						<p class="white-text0">Tiliadal STEM Education</p>
-					</span>
-					<!-- <div class="clearfix"></div> -->
-					<p class="white-text1">Enabling you to grow your seed of an idea into reality</p>
-				</div>
-
-
-				<!-- here are your main nav links, grouped for toggling -->
-				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="../../index0.php">Home</a></li>
-						<li><a href="../team/index.php">Meet our Team</a></li>
-						<li><a href="../research/index.php">Research</a></li>
-						<li><a href="../services/index.php">Consulting</a></li>
+	<body>
+		<header>
+			<!-- This is the main navigation bar -->
+			<!-- Next Steps:  Would like to put company name into 2 rows and realign the navigation links so that they are verically centered -->
+			<nav>
+				<div class="container nav-bckgrnd">
+					<!--  Note that this <h1> text does not appear on screeen -->
+					<h1 id="brand">Tiliadal STEM Education Solutions</h1>
+					<br/>
+					<h2 id="company">Tiliadal STEM Education Solutions</h2>
+					<ul>
+						<!--  Main Navigation links -->
+						<li><a href="../../index.php">Home</a></li>
+						<li><a href="index.php">Projects</a></li>
+						<li><a href="../pwrpoint/index.php">Presentatons</a></li>
 						<li><a href="../workshops/index.php">Workshops</a></li>
-						<li><a href="../blog/index.php">Blog</a></li>
-						<li><a href="../contact-us/index.php">Contact Us</a></li>
+						<li><a href="../papers/index.php">Publications</a></li>
+						<li><a href="../services/index.php">Services</a></li>
+						<li><a href="../team/index.php">Meet the Team</a></li>
+						<li><a href="mailto:jsaul@tiliadal.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
 					</ul>
 				</div>
+				<!-- Company Slogan - may need further work -->
+				<h3>Personalized Solutions to Help You Grow Your Educational Ideas into Reality</h3>
 			</nav>
+			<!-- End of Navigatoin bar in header section -->
+		</header>
 
-			<main class="main-format container-fluid">
-
-				<div class="container">
-					<div class="text-justify">
-
-						<!-- Spacing from top --
-						<br/> -->
-						<br/>
-						<br/>
-						<hr>
-						<br/>
-						<br/>
-						<br/>
-
-						<h1>Workshops We Offer</h1>
-						<p>Our team has the ability to step in at any stage of a project to give clients the attention and advice they need to complete their projects in a timely fashion.  We offer a variety of consulting services including:
-						</p>
-						<h2>Services:</h2>
-						<ul>
-							<li>Seek out external funding and help with grant writing</li>
-						</ul>
-						<h2>Skills</h2>
-						<ul>
-							<li>•	Research Skills necessary to take a project from Research Design to final data analysis
-							</li>
-							<li>•	Strong Communication Skills to produce and provide clear and readable proposals, research progress reports and professional papers.
-							</li>
-							<li>•	Writing skills necessary to improve papers and grants
-							</li>
-							<li>•	STEM Curriculum Development and Evaluations at all levels of students from K-20
-							</li>
-							<li>•	Expertise necessary to serve on advisory boards and evaluation teams for any STEM Education project
-							</li>•	Professional Development for Administrators, Faculty, Graduate and Undergraduate Students, In-service/ Pre-service and In-formal STEM Educators.
-
-							<li>
-
-							</li>
-						</ul>
-					</div>
-				</div>
-				<br/>
-			</main>
-		</div>
-
-
-		<footer class="footer">
+		<!-- Main Content Section of the Webpage ** list services for potential clients -->
+		<section class="pages-content">
 			<div class="container">
-				<p class="text-muted">Copyright 2016 J. Saul>
-			<span class="pull-right">
+				<h2 id="pageHeader">Current Projects</h2>
 
-				<div class="collapse navbar-collapse" id="main-menu">
-					<ul class="nav navbar-nav navbar-right white-text2">
-						<li><a href="/pages/about.php">Upcoming 2017 Meetings</a></li>
-						<li><a href="/pages/services.php">Resources</a></li>
-						<li><a href="/pages/projects.php">Blogs</a></li>
-						<!--	This will send an email to jsaul@tiliadal.com		-->
-						<li><a href="mailto:jsaul@tiliadal.com">Email Tiliadal</a></li>
 
-					</ul>
+			<!-- List of Projects						 -->
+				<div class="left-justify">
+					<h3 class="project-name">Typography and Readability Study (Carroll & Lindell)</h3>
+					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments? Looking for instructor volunteers for Fall 2017. </p>
+					<a href="readabilitystudy/index.html">Learn More</a>
+					<br/>
+					<br/>
 				</div>
-				<!--
-				<a class="btn btn-primary" href="mailto:jsaul@tiliadal.com"
-					role="button">Email Tiliadal</a> -->
-			</span>
-				</p>
-				<p class="warning"> NOTE:  THIS WEBSITE IS UNDER CONSTRUCTION.  Nav bar links are not yet active.</p>
-			</div>
-		</footer>
+				<div class="left-justify">
+					<h3 class="project-name">Parachute Class</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Using Pschometrics to Understand the Gender Difference on the Force Concept Inventory</h3>
+					<p>Utilizing classical and modern test theory to exam males and female student populations independently to determine unfair items on the Force Concept Inventory.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Item Response Theory and Conceptual Assessments</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">IOLAB interface</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Investigating conceptual learning assessment instrument development methodologies using the CLAIMS</h3>
+					<p>Developed the CLAIMS survey to investigate different “concept inventory” development methodologies as well as developers claims of validity, reliability and fairness.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Network Analysis and the LPCI</h3>
+					<p>Uncovering modules of student thinking of lunar phases utilizing the MAMCR methodology developed by Brewe, Bruin and Fletcher on the database of N=2000 LPCI responses.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Exploring teachers’ professional development on their students understanding of lunar phases</h3>
+					<p>Middle school teachers participated in a multi-week professional development sequence on earth science including astronomy.  After the professional development the teachers adapted what they learned into their curriculum. Focuses on how well  both the teachers and the students mastered lunar phases as measured by the LPCI.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">A critical review of spatial reasoning and astronomy literature</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Developing advanced physics activities utilizing modern topics in planetary science</h3>
+					<p>Combining the skills of a forward-thinking planetary scientist (J. Steckloff) with an astronomy education research expert (R. Lindell) to design and field test a series of multi-media exercises for advanced high school and introductory physics or planetary science majors. Two activities developed more in progress.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">CourseNetworking: A social media supported LMS</h3>
+					<p>Investigating how the CourseNetworking supports interaction outside the physics classroom.</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Astronomy Applets</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
+				<div class="left-justify">
+					<h3 class="project-name">Student Centered Active Learning Environment for Upside-down Pedagogies (SCALE-UP)</h3>
+					<p>xxx</p>
+					<br/>
+				</div>
 
+
+				<!-- ********************************** -->
+			<!-- ********************************** -->
+
+
+		<!--  Emd of main content Section -->
+		</div>
+		<!-- Flourish separator begins here -->
+		<section class="separator">
+			<img src="../../img/flourish1-.gif" class="flourish" alt="flourish divider" />
+		</section>
+		<!-- Flourish separator emds here -->
+
+		<!--  Hero Section with company mission statement -->
+		<section id="hero">
+			<!-- inset hero image -->
+			<!--  <img src="images/zebra.jpg" alt="Zebra"/>  -->
+			<span class="motto">We are an interdisciplinary team of Science Educators, Cognitive and Learning Scientists, and STEM Education Researchers dedicated to improving STEM teaching, development, and education research at all education levels.</span>
+		</section>
+
+		<section id="social">
+			<div class="container">
+				<h3>Coming soon to a social media platform near you.</h3>
+				<!--    Commenting out socal media links for btomt
+				<ul>
+					<li><img src="img/facebook.svg" alt="Facebook"/></li>
+					<li><img src="img/twitter.svg" alt="Twitter"/></li>
+					<li><img src="img/instagram.svg" alt="Instagram"/></li>
+					<li><img src="img/linkedin.svg" alt="LinkedIn"/></li>
+				</ul> -->
+			</div>
+		</section>
+		<footer>
+			<p>&copy; 2017 Webmansaul</p>
+		</footer>
 	</body>
 </html>
