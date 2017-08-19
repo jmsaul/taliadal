@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Stem Ed Solutions</title>
+		<title>Stem Ed Solutions: Workshops</title>
 
 		<!-- CDN Bootstrap Libraries -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -37,7 +37,7 @@
 					<h2 id="company">Tiliadal STEM Education Solutions</h2>
 					<ul>
 						<!--  Main Navigation links -->
-						li><a href="../../index.php">Home</a></li>
+						<li><a href="../../index.php">Home</a></li>
 						<li><a href="../aboutus/index.php">About Us</a></li>
 						<li><a href="../workshops/index.php">Workshops Offered</a></li>
 						<li><a href="../services/index.php">Services Offered</a></li>
@@ -54,63 +54,85 @@
 		<!-- Main Content Section of the Webpage ** list services for potential clients -->
 		<section class="pages-content">
 			<div class="container">
-				<h2 id="pageHeader">Services Offered</h2>
+				<h2 id="pageHeader">Workshops Offered</h2>
 
 
 			<!-- List of Services Offered						 -->
 				<div class="left-justify">
-					<h3 class="project-name">Research Design Solutions</h3>
-					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments? Looking for instructor volunteers for Fall 2017. </p>
+					<h3 class="project-name">Hands-on Inquiry-based In-class Activities in Astronomy</h3>
+					<p>A one to two hour-long workshop where participants are introduced to the pedagogy behind the activities and where to buy the hands-on equipment. Participants then explore the different activities.</p>
 					<br/>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Evaluation Solutions</h3>
-					<p>Have a project or submitting a proposal where you need an advisory committee or external evaluators?  Do you need people for your program review?  We have experience with evaluating classroom reforms and programs using qualitative, quantitative, and hybrid research methods.  We have worked with reformed laboratory and discussion sessions, lecture courses, small and large STEM studio classes, online instruction, social networking, and classroom management systems.  We will make site visits and observe your classes to provide formative and summative assessments of your project or program.</p>
+					<h3 class="project-name">Introduction to Astronomy Education Research (AER)</h3>
+					<p>A two-hour workshop where AER is defined and how education research is the same as astronomy research.  The workshop proceeds by explaining the importance of research questions, followed by participants generating research questions alone and then in groups to refine their research questions. Qualitative, Quantitative and mixed methodologies are explored.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Professional Development Solutions</h3>
-					<p>We offer a wide-ranging array of workshops we can bring to you ranging from an overview or active-learning approaches to designing your own active-learning activities to converting to upside pedagogies such as SCALE-UP.  In addition we can offer workshops on how to keep your evaluations from dropping while you are innovating as well as workshops on how to write and publish in American STEM Education research channels</p>
+					<h3 class="project-name">Teaching Lunar Phases by Inquiry</h3>
+					<p>The purpose of this workshop is two fold: 1) To teach the concept of lunar phases and 2) To discuss the difficulties they experience in their classroom.  Instruction is based on lunar phases activities from Conceptual Activities in Astronomy by R. Lindell </p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Curriculum Development Solutions</h3>
-					<p>Let us help you bring more active-learning (hand-on/minds-on) activities to your classroom.  Our specialists have over 50 years of experience in active-learning in a wide-range of STEM fields ranging from interactive lecture and labs to integrated lecture and lab with minimal lecturing in SCALE-UP rooms.  We have worked with faculty with large and small classes.  We work with your learning objectives and your constraints to develop active-learning activities for your classroom.</p>
+					<h3 class="project-name">Science Inquiry Modules: Teaching and Modeling Science Inquiry Lessons for Future Elementary Teachers </h3>
+					<p>One-hour workshop, where participants learn about innovative integrated activity-based science course required for all elementary education majors.  Time is provided to explore the different activities.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Concept Inventory Development Solutions</h3>
-					<p>Do you need a pre and/or post Concept Inventory to assess your students knowledge and skills.  We can help you match your needs to existing concept inventories and assessment.  If we can't find an existing assessment, we can help you develop a customized assessment using item analysis and model analysis techniques.</p>
+					<h3 class="project-name">Student Misconceptions and How Knowing Them Should Change Your Teaching</h3>
+					<p>Participants explore different student misconceptions and how to teach to overcome these misconceptions.  Follows the Conceptual Change model of instruction.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Data Analysis & Publishing Solutions</h3>
-					<p>If you don't have time to analyze your data and write it up, let us analyze the date and or help you publish it.  We will work with you individually or we can offer workshops for faculty and graduates students to write up and publish STEM education reform and research projects.</p>
+					<h3 class="project-name">Inquiry-based Hands-on In-class Conceptual Physics Activities</h3>
+					<p>An hour long workshop where participants are introduced to the pedagogy behind the activities then explore the different activities.</p>
 					<br/>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Educational Website Solutions</h3>
-					<p>Ready to take the next step in promoting your research project by producing an interactive learning website? Have other web-based needs? We can develop custom educational websites that bring faculty and students to you. We can also make a mobile app to your specifications.</p>
+					<h3 class="project-name">Using Guided Inquiry Activities to Promote Conceptual Change in Astronomy, Biology, Chemistry, Integrated Science, and Physics</h3>
+					<p>An hour-long workshop where participants explore different activities in STEM designed to promote conceptual change.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Writing Solutions</h3>
-					<p>We have solutions for assisting in all your writing needs from assisting with writing up your project, figuring out where to publish and writing/ reviewing your grant proposal and other publications.</p>
+					<h3 class="project-name">Designing Inquiry-based Instruction to Promote Conceptual Change</h3>
+					<p>Participants learn about the Karplus Learning Cycles and promoting conceptual change.  Participants learn the importance of uncovering student difficulties.  Given a design rubric participants begin designing their own lessons.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Custom Solutions</h3>
-					<p>We provide customized solutions to help with STEM classroom innovation, curriculum reform, and STEM education research projects.  Whether you need help with funding, implementing, assessing, evaluating, or disseminating, our team of consultants will work with you and help you bring your ideas and your project to the next stage.</p>
+					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
+					</h3>
+					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
+					</h3>
+					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
+					</h3>
+					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
+					</h3>
+					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
 					<br/>
 				</div>
 
