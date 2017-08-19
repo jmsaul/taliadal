@@ -60,7 +60,7 @@
 			<!-- List of Services Offered						 -->
 				<div class="left-justify">
 					<h3 class="project-name">Research Design Solutions</h3>
-					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments? Looking for instructor volunteers for Fall 2017. </p>
+					<p>Have an idea, but not sure how to move forward.  Want to switch to discipline-based education research, but are not sure how to proceed.  We can help you design your research methodology; recommend readings to assist you in learning the techniques associated with discipline-based education research, or provide guidance through your project.</p>
 					<br/>
 					<br/>
 				</div>
@@ -79,13 +79,13 @@
 
 				<div class="left-justify">
 					<h3 class="project-name">Curriculum Development Solutions</h3>
-					<p>Let us help you bring more active-learning (hand-on/minds-on) activities to your classroom.  Our specialists have over 50 years of experience in active-learning in a wide-range of STEM fields ranging from interactive lecture and labs to integrated lecture and lab with minimal lecturing in SCALE-UP rooms.  We have worked with faculty with large and small classes.  We work with your learning objectives and your constraints to develop active-learning activities for your classroom.</p>
+					<p>Let us help you bring more active-learning (hand-on/minds-on) activities to your classroom.  Our specialists have over 50 years of experience in active-learning in a wide-range of STEM fields ranging from interactive lecture and labs to integrated lecture and lab with minimal lecturing in SCALE-UP rooms.  Our specialists have experience in teaching courses in Astronomy, Biology, Chemistry, Earth Science, Engineering, and Physics.  We have worked with faculty with large and small classes.  We work with your learning objectives and your constraints to develop active-learning activities for your classroom.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
 					<h3 class="project-name">Concept Inventory Development Solutions</h3>
-					<p>Do you need a pre and/or post Concept Inventory to assess your students knowledge and skills.  We can help you match your needs to existing concept inventories and assessment.  If we can't find an existing assessment, we can help you develop a customized assessment using item analysis and model analysis techniques.</p>
+					<p>Need to choose a concept inventory for part of your evaluation? Interested in developing a concept inventory?  Our specialists have a working knowledge of all STEM concept inventories as well as their development methodologies; created guidelines for creating different types of concept inventories; have created multiple concept inventories and have worked with researchers to design their own concept inventories.</p>
 					<br/>
 				</div>
 
