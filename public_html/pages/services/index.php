@@ -37,7 +37,7 @@
 					<h2 id="company">Tiliadal STEM Education Solutions</h2>
 					<ul>
 						<!--  Main Navigation links -->
-						li><a href="../../index.php">Home</a></li>
+						<li><a href="../../index.php">Home</a></li>
 						<li><a href="../aboutus/index.php">About Us</a></li>
 						<li><a href="../workshops/index.php">Workshops Offered</a></li>
 						<li><a href="../services/index.php">Services Offered</a></li>
