@@ -85,7 +85,7 @@
 
 				<div class="left-justify">
 					<h3 class="project-name">Concept Inventory Development Solutions</h3>
-					<p>xxx</p>
+					<p>Do you need a pre and/or post Concept Inventory to assess your students knowledge and skills.  We can help you match your needs to existing concept inventories and assessment.  If we can't find an existing assessment, we can help you develop a customized assessment using item analysis and model analysis techniques.</p>
 					<br/>
 				</div>
 
@@ -103,7 +103,7 @@
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Writing Solutionsz</h3>
+					<h3 class="project-name">Writing Solutions</h3>
 					<p>We have solutions for assisting in all your writing needs from assisting with writing up your project, figuring out where to publish and writing/ reviewing your grant proposal and other publications.</p>
 					<br/>
 				</div>
