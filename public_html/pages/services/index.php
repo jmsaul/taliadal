@@ -37,14 +37,12 @@
 					<h2 id="company">Tiliadal STEM Education Solutions</h2>
 					<ul>
 						<!--  Main Navigation links -->
-						<li><a href="../../index.php">Home</a></li>
-						<li><a href="index.php">Projects</a></li>
-						<li><a href="../pwrpoint/index.php">Presentatons</a></li>
-						<li><a href="../workshops/index.php">Workshops</a></li>
-						<li><a href="../papers/index.php">Publications</a></li>
-						<li><a href="../services/index.php">Services</a></li>
+						li><a href="../../index.php">Home</a></li>
+						<li><a href="../aboutus/index.php">About Us</a></li>
+						<li><a href="../workshops/index.php">Workshops Offered</a></li>
+						<li><a href="../services/index.php">Services Offered</a></li>
 						<li><a href="../team/index.php">Meet the Team</a></li>
-						<li><a href="mailto:jsaul@tiliadal.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed">Contact us</a></li>
+						<li><a href="mailto:jsaul@stemedsolutions.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed Solutions">Contact us</a></li>
 					</ul>
 				</div>
 				<!-- Company Slogan - may need further work -->
@@ -56,75 +54,63 @@
 		<!-- Main Content Section of the Webpage ** list services for potential clients -->
 		<section class="pages-content">
 			<div class="container">
-				<h2 id="pageHeader">Current Projects</h2>
+				<h2 id="pageHeader">Services Offered</h2>
 
 
-			<!-- List of Projects						 -->
+			<!-- List of Services Offered						 -->
 				<div class="left-justify">
-					<h3 class="project-name">Typography and Readability Study (Carroll & Lindell)</h3>
+					<h3 class="project-name">Research Design Solutions</h3>
 					<p>A text’s perceived difficulty can be affected by typography. Do typographical choices affect how all physics and astronomy students perceive physics tests and assignments, as well as how they perform on said tests and assignments? Looking for instructor volunteers for Fall 2017. </p>
-					<a href="readabilitystudy/index.html">Learn More</a>
 					<br/>
 					<br/>
 				</div>
+
 				<div class="left-justify">
-					<h3 class="project-name">Parachute Class</h3>
+					<h3 class="project-name">Evaluation Solutions</h3>
+					<p>Have a project or submitting a proposal where you need an advisory committee or external evaluators?  Do you need people for your program review?  We have experience with evaluating classroom reforms and programs using qualitative, quantitative, and hybrid research methods.  We have worked with reformed laboratory and discussion sessions, lecture courses, small and large STEM studio classes, online instruction, social networking, and classroom management systems.  We will make site visits and observe your classes to provide formative and summative assessments of your project or program.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Professional Development Solutions</h3>
+					<p>We offer a wide-ranging array of workshops we can bring to you ranging from an overview or active-learning approaches to designing your own active-learning activities to converting to upside pedagogies such as SCALE-UP.  In addition we can offer workshops on how to keep your evaluations from dropping while you are innovating as well as workshops on how to write and publish in American STEM Education research channels</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Curriculum Development Solutions</h3>
+					<p>Let us help you bring more active-learning (hand-on/minds-on) activities to your classroom.  Our specialists have over 50 years of experience in active-learning in a wide-range of STEM fields ranging from interactive lecture and labs to integrated lecture and lab with minimal lecturing in SCALE-UP rooms.  We have worked with faculty with large and small classes.  We work with your learning objectives and your constraints to develop active-learning activities for your classroom.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Concept Inventory Development Solutions</h3>
 					<p>xxx</p>
 					<br/>
 				</div>
+
 				<div class="left-justify">
-					<h3 class="project-name">Using Pschometrics to Understand the Gender Difference on the Force Concept Inventory</h3>
-					<p>Utilizing classical and modern test theory to exam males and female student populations independently to determine unfair items on the Force Concept Inventory.</p>
+					<h3 class="project-name">Data Analysis & Publishing Solutions</h3>
+					<p>If you don't have time to analyze your data and write it up, let us analyze the date and or help you publish it.  We will work with you individually or we can offer workshops for faculty and graduates students to write up and publish STEM education reform and research projects.</p>
+					<br/>
 					<br/>
 				</div>
+
 				<div class="left-justify">
-					<h3 class="project-name">Item Response Theory and Conceptual Assessments</h3>
-					<p>xxx</p>
+					<h3 class="project-name">Educational Website Solutions</h3>
+					<p>Ready to take the next step in promoting your research project by producing an interactive learning website? Have other web-based needs? We can develop custom educational websites that bring faculty and students to you. We can also make a mobile app to your specifications.</p>
 					<br/>
 				</div>
+
 				<div class="left-justify">
-					<h3 class="project-name">IOLAB interface</h3>
-					<p>xxx</p>
+					<h3 class="project-name">Writing Solutionsz</h3>
+					<p>We have solutions for assisting in all your writing needs from assisting with writing up your project, figuring out where to publish and writing/ reviewing your grant proposal and other publications.</p>
 					<br/>
 				</div>
+
 				<div class="left-justify">
-					<h3 class="project-name">Investigating conceptual learning assessment instrument development methodologies using the CLAIMS</h3>
-					<p>Developed the CLAIMS survey to investigate different “concept inventory” development methodologies as well as developers claims of validity, reliability and fairness.</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">Network Analysis and the LPCI</h3>
-					<p>Uncovering modules of student thinking of lunar phases utilizing the MAMCR methodology developed by Brewe, Bruin and Fletcher on the database of N=2000 LPCI responses.</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">Exploring teachers’ professional development on their students understanding of lunar phases</h3>
-					<p>Middle school teachers participated in a multi-week professional development sequence on earth science including astronomy.  After the professional development the teachers adapted what they learned into their curriculum. Focuses on how well  both the teachers and the students mastered lunar phases as measured by the LPCI.</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">A critical review of spatial reasoning and astronomy literature</h3>
-					<p>xxx</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">Developing advanced physics activities utilizing modern topics in planetary science</h3>
-					<p>Combining the skills of a forward-thinking planetary scientist (J. Steckloff) with an astronomy education research expert (R. Lindell) to design and field test a series of multi-media exercises for advanced high school and introductory physics or planetary science majors. Two activities developed more in progress.</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">CourseNetworking: A social media supported LMS</h3>
-					<p>Investigating how the CourseNetworking supports interaction outside the physics classroom.</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">Astronomy Applets</h3>
-					<p>xxx</p>
-					<br/>
-				</div>
-				<div class="left-justify">
-					<h3 class="project-name">Student Centered Active Learning Environment for Upside-down Pedagogies (SCALE-UP)</h3>
-					<p>xxx</p>
+					<h3 class="project-name">Custom Solutions</h3>
+					<p>We provide customized solutions to help with STEM classroom innovation, curriculum reform, and STEM education research projects.  Whether you need help with funding, implementing, assessing, evaluating, or disseminating, our team of consultants will work with you and help you bring your ideas and your project to the next stage.</p>
 					<br/>
 				</div>
 

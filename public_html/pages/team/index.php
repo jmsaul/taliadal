@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Meet the Team</title>
+		<title>STEM Ed Solutions Team</title>
 
 		<!-- CDN Bootstrap Libraries -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -38,11 +38,8 @@
 					<ul>
 						<!--  Main Navigation links -->
 						<li><a href="../../index.php">Home</a></li>
-						<!--  <li><a href="/pages/projects/index.php">Projects</a></li>
-						<li><a href="/pages/pwrpoint/index.php">Presentatons</a></li> -->
 						<li><a href="../aboutus/index.php">About Us</a></li>
 						<li><a href="../workshops/index.php">Workshops Offered</a></li>
-						<!--  <li><a href="/pages/publications/index.php">Publications</a></li> -->
 						<li><a href="../services/index.php">Services Offered</a></li>
 						<li><a href="../team/index.php">Meet the Team</a></li>
 						<li><a href="mailto:jsaul@stemedsolutions.com,rlindell@tiliadal.com?subject=Contact Tiliadal STEM Ed Solutions">Contact us</a></li>
