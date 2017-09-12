@@ -108,7 +108,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">See my home</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#curriculum">Learn More</a>
 				</section>
 				<section class="second-row" id="diet2">
 					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
@@ -117,7 +117,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn more</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#concept-test">Learn More</a>
 				</section>
 				<section class="second-row" id="pattern2">
 					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
@@ -126,7 +126,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#data-analysis">Learn More</a>
 				</section>
 
 				<!-- ********************************** -->
@@ -140,7 +140,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">See my home</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#websites">Learn More</a>
 				</section>
 				<section class="third-row" id="diet3">
 					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
@@ -149,7 +149,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn more</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#writing">Learn More</a>
 				</section>
 				<section class="third-row" id="pattern3">
 					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
@@ -158,7 +158,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
 					<br/>
-					<a href="xxx">Learn More</a>
+					<a href="/pages/services/index.php#custom-solns">Learn More</a>
 				</section>
 			</div>
 		</section>
