@@ -61,7 +61,7 @@
 				<div class="left-justify">
 					<h3 class="project-name">Dr. Rebecca Lindell, Ph.D., Founder and Partner</h3>
 					<p>Dr. Rebecca Lindell is an interdisciplinary-based STEM Education Researcher specializing in Physics and Astronomy Education Research. With over 20 years experience in the field, she specializes in curriculum development, education research design & methods, and assessment & evaluation.  Rebecca is an award-winning curriculum developer and has received national recognition for her redesign of her introductory astronomy course at Southern Illinois University Edwardsville. She has redesigned numerous physics courses at every level.  She founded Tiliadal STEM Education Solutions in 2014 to allow her to continue to contribute to the field of Physics and Astronomy Education Research. Rebecca received her BS in Physics from Purdue University and her MS and PhD in Physics and Astronomy from the University of Nebraska – Lincoln where she specialized in Physics and Astronomy Education Research.</p>
-					<a href="rl-vita">Link to Curriculum Vitae</a>
+					<!--  <a href="rl-vita">Link to Curriculum Vitae</a>  -->
 					<br/>
 					<br/>
 				</div>
