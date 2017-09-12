@@ -67,7 +67,7 @@
 						<h4>Research Design Solutions</h4>
 						<p>We can help you design your research project from methodology, collection of data to analysis of data.  </p>
 						<br/>
-						<a href="xxx">Learn More</a>
+						<a href="/pages/services/index.php#research">Learn More</a>
 						<!-- tertiary navigation buttons -->
 						<!-- <a href="" class="btn">See my home</a>  -->
 					</div>

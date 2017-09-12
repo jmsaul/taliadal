@@ -59,57 +59,57 @@
 
 			<!-- List of Services Offered						 -->
 				<div class="left-justify">
-					<h3 class="project-name">Research Design Solutions</h3>
+					<h3 class="project-name" id="research">Research Design Solutions</h3>
 					<p>Have an idea, but not sure how to move forward.  Want to switch to discipline-based education research, but are not sure how to proceed.  We can help you design your research methodology; recommend readings to assist you in learning the techniques associated with discipline-based education research, or provide guidance through your project.</p>
 					<br/>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Evaluation Solutions</h3>
+					<h3 class="project-name" id="evaluation">Evaluation Solutions</h3>
 					<p>Have a project or submitting a proposal where you need an advisory committee or external evaluators?  Do you need people for your program review?  We have experience with evaluating classroom reforms and programs using qualitative, quantitative, and hybrid research methods.  We have worked with reformed laboratory and discussion sessions, lecture courses, small and large STEM studio classes, online instruction, social networking, and classroom management systems.  We will make site visits and observe your classes to provide formative and summative assessments of your project or program.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Professional Development Solutions</h3>
+					<h3 class="project-name" id="prof-dev">Professional Development Solutions</h3>
 					<p>We offer a wide-ranging array of workshops we can bring to you ranging from an overview or active-learning approaches to designing your own active-learning activities to converting to upside pedagogies such as SCALE-UP.  In addition we can offer workshops on how to keep your evaluations from dropping while you are innovating as well as workshops on how to write and publish in American STEM Education research channels</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Curriculum Development Solutions</h3>
+					<h3 class="project-name" id="curriculum">Curriculum Development Solutions</h3>
 					<p>Let us help you bring more active-learning (hand-on/minds-on) activities to your classroom.  Our specialists have over 50 years of experience in active-learning in a wide-range of STEM fields ranging from interactive lecture and labs to integrated lecture and lab with minimal lecturing in SCALE-UP rooms.  Our specialists have experience in teaching courses in Astronomy, Biology, Chemistry, Earth Science, Engineering, and Physics.  We have worked with faculty with large and small classes.  We work with your learning objectives and your constraints to develop active-learning activities for your classroom.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Concept Inventory Development Solutions</h3>
+					<h3 class="project-name" id="concept-test">Concept Inventory Development Solutions</h3>
 					<p>Need to choose a concept inventory for part of your evaluation? Interested in developing a concept inventory?  Our specialists have a working knowledge of all STEM concept inventories as well as their development methodologies; created guidelines for creating different types of concept inventories; have created multiple concept inventories and have worked with researchers to design their own concept inventories.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Data Analysis & Publishing Solutions</h3>
+					<h3 class="project-name" id="data-analysis">Data Analysis & Publishing Solutions</h3>
 					<p>If you don't have time to analyze your data and write it up, let us analyze the date and or help you publish it.  We will work with you individually or we can offer workshops for faculty and graduates students to write up and publish STEM education reform and research projects.</p>
 					<br/>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Educational Website Solutions</h3>
+					<h3 class="project-name" id="websites">Educational Website Solutions</h3>
 					<p>Ready to take the next step in promoting your research project by producing an interactive learning website? Have other web-based needs? We can develop custom educational websites that bring faculty and students to you. We can also make a mobile app to your specifications.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Writing Solutions</h3>
+					<h3 class="project-name" id="writing">Writing Solutions</h3>
 					<p>We have solutions for assisting in all your writing needs from assisting with writing up your project, figuring out where to publish and writing/ reviewing your grant proposal and other publications.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Custom Solutions</h3>
+					<h3 class="project-name" id="custom-solns">Custom Solutions</h3>
 					<p>We provide customized solutions to help with STEM classroom innovation, curriculum reform, and STEM education research projects.  Whether you need help with funding, implementing, assessing, evaluating, or disseminating, our team of consultants will work with you and help you bring your ideas and your project to the next stage.</p>
 					<br/>
 				</div>
