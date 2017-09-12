@@ -326,6 +326,11 @@ ul.rsrchqstns2 {
 	margin: 10px auto;
 }
 
+.project-name {
+	font-weight: bold;
+	font-size: 150%:
+}
+
 /**  End stylind of Main Content & Service bullets  **/
 
 #social {
