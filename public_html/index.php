@@ -80,7 +80,7 @@
 						<!-- tertiary navigation buttons -->
 						<!-- <a href="" class="btn">Grass is great</a>  -->
 						<br/>
-						<a href="xxx">Learn More</a>
+						<a href="/pages/services/index.php#evaluation">Learn More</a>
 					</div>
 				</section>
 				<section class="first-row" id="pattern1">
@@ -91,7 +91,7 @@
 						<!-- tertiary navigation buttons -->
 						<!--  <a href="" class="btn">Check out my stripes</a>  -->
 						<br/>
-						<a href="xxx">Learn More</a>
+						<a href="/pages/services/index.php#prof-dev">Learn More</a>
 					</div>
 				</section>
 
