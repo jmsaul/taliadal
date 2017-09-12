@@ -60,9 +60,10 @@
 			<!-- List of Projects						 -->
 				<div class="left-justify">
 					<p>Tiliadal (Tilleeadahl) STEM Education Solutions, founded in 2014, is a consulting company dedicated to improving STEM education by working in partnership with academic institutions, professional societies and individual faculty to promote change in STEM Education.  We do this through this by working closely with our clients to design custom solutions to reach their education goals.  Our team specializes in developing and designing methods/ paths toward incorporating change into STEM higher education.  We have worked closely with individual faculty members to develop their ideas into a product to help students across the US, as well as working with individual universities to design and deliver professional development workshops for their entire faculty.
-						.</p>
+					</p>
+					<br/>
 					<p>Tiliadal’s symbol is a full grown tree representing stability, structure and wisdom as well as guidance and support provided by our company.  The name is a play on the founder, Rebecca Lindell’s last name, which literally means “valley of the Linden trees” in Swedish. “Tilia” is the family name of over 30 species of trees including the Linden tree, while dal also refers to valley in Swedish.</p>
-					<a href="rl-vita">Link to Curriculum Vitae</a>
+
 					<br/>
 					<br/>
 				</div>
