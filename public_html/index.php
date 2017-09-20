@@ -67,7 +67,7 @@
 						<h4>Research Design Solutions</h4>
 						<p>We can help you design your research project from methodology, collection of data to analysis of data.  </p>
 						<br/>
-						<a href="/pages/services/index.php#research">Learn More</a>
+						<a href="/pages/services/index.php">Learn More</a>
 						<!-- tertiary navigation buttons -->
 						<!-- <a href="" class="btn">See my home</a>  -->
 					</div>
@@ -80,7 +80,7 @@
 						<!-- tertiary navigation buttons -->
 						<!-- <a href="" class="btn">Grass is great</a>  -->
 						<br/>
-						<a href="/pages/services/index.php#evaluation">Learn More</a>
+						<a href="/pages/services/index.php#research">Learn More</a>
 					</div>
 				</section>
 				<section class="first-row" id="pattern1">
@@ -91,7 +91,7 @@
 						<!-- tertiary navigation buttons -->
 						<!--  <a href="" class="btn">Check out my stripes</a>  -->
 						<br/>
-						<a href="/pages/services/index.php#prof-dev">Learn More</a>
+						<a href="/pages/services/index.php#evaluation">Learn More</a>
 					</div>
 				</section>
 
@@ -108,7 +108,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">See my home</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#curriculum">Learn More</a>
+					<a href="/pages/services/index.php#prof-dev">Learn More</a>
 				</section>
 				<section class="second-row" id="diet2">
 					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
@@ -117,7 +117,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn more</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#concept-test">Learn More</a>
+					<a href="/pages/services/index.php#curriculum">Learn More</a>
 				</section>
 				<section class="second-row" id="pattern2">
 					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
@@ -126,7 +126,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#data-analysis">Learn More</a>
+					<a href="/pages/services/index.php#concept-test">Learn More</a>
 				</section>
 
 				<!-- ********************************** -->
@@ -140,7 +140,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">See my home</a>  -->
 					<br/>
-					<a href="/pages/services/index.php">Learn More</a>
+					<a href="/pages/services/index.php#data-analysis">Learn More</a>
 				</section>
 				<section class="third-row" id="diet3">
 					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
@@ -149,7 +149,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn more</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#writing">Learn More</a>
+					<a href="/pages/services/index.php#websites">Learn More</a>
 				</section>
 				<section class="third-row" id="pattern3">
 					<!--  <img src="images/stripes.jpg" alt="Volcano">  -->
@@ -158,7 +158,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">Learn More about Custom Solutions</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#custom-solns">Learn More</a>
+					<a href="/pages/services/index.php#writing">Learn More</a>
 				</section>
 			</div>
 		</section>
