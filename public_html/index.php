@@ -140,7 +140,7 @@
 					<!-- tertiary navigation buttons -->
 					<!-- <a href="" class="btn">See my home</a>  -->
 					<br/>
-					<a href="/pages/services/index.php#websites">Learn More</a>
+					<a href="/pages/services/index.php">Learn More</a>
 				</section>
 				<section class="third-row" id="diet3">
 					<!--  <img src="images/grass.jpg" alt="Radio Telescope">  -->
