@@ -116,23 +116,22 @@
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
-					</h3>
-					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<h3 class="project-name">Assessing Student Learning and Learning Outcomes</h3>
+					<p>Switching to a student-centered approach requires thinking about what you want students to learn from your course, how you measure their success, and how you teach them to achieve that success.  In this session, we will discuss constructing learning objectives for your students, using these to develop measurable outcomes, and developing assessments to measure student success based on outcomes.  Lastly, we will discuss how to use the feedback from your assessments to improve your course outcomes in the future.
+					</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
-					</h3>
-					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<h3 class="project-name">Evaluating your instruction and what to do if they don’t like it?</h3>
+					<p>Evaluating instruction often relies on a combination of students’ performance, expectations, and attitudes. In this session, we will discuss different methods for each type of evaluation.  We will also discuss how instructors may improve their results.</p>
 					<br/>
 				</div>
 
 				<div class="left-justify">
-					<h3 class="project-name">Shifting the Focus:  Moving from Teacher Centered to Student-Centered Instruction
-					</h3>
-					<p>Multiple studies on how students learn have found the most effective innovation is switching from thinking about the best way to present course material as an instructor to how best to help students develop the skills and knowledge needed to master the course material.  The most effective reforms are those that have students working in teams on activities that help them work on the course material themselves with coaching from the instructor.  This session will discuss the process of how instructors can make this transition.</p>
+					<h3 class="project-name">Incorporating Active-Learning in your Teaching</h3>
+					<p>There are many different ways to successfully incorporate and manage active learning in your classroom. This session will discuss and demonstrate multiple active learning options including the instructors’ shifting roles.
+					</p>
 					<br/>
 				</div>
 
