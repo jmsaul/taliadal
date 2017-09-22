@@ -135,6 +135,18 @@
 					<br/>
 				</div>
 
+				<div class="left-justify">
+					<h3 class="project-name">Creating Student Centered Activities in Different Learning Environments</h3>
+					<p>The specific instructional setting presents unique opportunities as well as different constraints for implementing active learning in classroom instruction. The breakout sessions will discuss and demonstrate activities appropriate to each of the three classroom environments.</p>
+					<br/>
+				</div>
+
+				<div class="left-justify">
+					<h3 class="project-name">Facilitating and Sustaining Curriculum Innovation</h3>
+					<p>Change is hard and sustaining change is even harder.  This session will discuss ways to support and reward faculty who want to include more activity-based learning in their classes.  We will also discuss strategies to help departments and institutions sustain curriculum reforms.</p>
+					<br/>
+				</div>
+
 
 				<!-- ********************************** -->
 			<!-- ********************************** -->
